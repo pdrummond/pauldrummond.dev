@@ -6,17 +6,16 @@ import {
   Nav,
   HeaderTitle,
   HeaderLinks,
-  HeaderLink,
 } from "./default-layout.styles"
 import { useStaticQuery, Link, graphql } from "gatsby"
 
-const ListLink = props => (
+/*const ListLink = props => (
   <HeaderLink>
     <Link to={props.to} activeClassName="active">
       {props.children}
     </Link>
   </HeaderLink>
-)
+)*/
 
 export const DefaultLayout = ({ children }) => {
   const data = useStaticQuery(
