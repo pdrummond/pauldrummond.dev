@@ -2,9 +2,9 @@ import React from "react"
 import { graphql } from "gatsby"
 import { DefaultLayout } from "../layouts/default-layout"
 
-export default ({ data }) => {
+export default props => {
   return (
-    <DefaultLayout>
+    <DefaultLayout {...props}>
       <div>
         <h1>My Site's Files</h1>
         <table>
@@ -17,7 +17,7 @@ export default ({ data }) => {
             </tr>
           </thead>
           <tbody>
-            {data.allFile.edges.map(({ node }, index) => (
+            {props.data.allFile.edges.map(({ node }, index) => (
               <tr key={index}>
                 <td>{node.relativePath}</td>
                 <td>{node.prettySize}</td>
