@@ -1,0 +1,12 @@
+pre {
+  background-color: whitesmoke;
+  padding: 10px;
+  font-size: 18px;
+  overflow: scroll;
+}
+
+a,
+a:hover,
+a:active {
+  color: #997c39;
+}

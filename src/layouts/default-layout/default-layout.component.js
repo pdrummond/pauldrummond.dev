@@ -6,18 +6,20 @@ import {
   Nav,
   HeaderTitle,
   HeaderLinks,
+  HeaderLink,
 } from "./default-layout.styles"
+import "./default-layout.css"
 import { useStaticQuery, Link, graphql } from "gatsby"
 
-/*const ListLink = props => (
+const ListLink = props => (
   <HeaderLink>
-    <Link to={props.to} activeClassName="active">
+    <Link to={props.to} className={props.active ? "active" : ""}>
       {props.children}
     </Link>
   </HeaderLink>
-)*/
+)
 
-export const DefaultLayout = ({ children }) => {
+export const DefaultLayout = props => {
   const data = useStaticQuery(
     graphql`
       query {
@@ -34,15 +36,28 @@ export const DefaultLayout = ({ children }) => {
       <Header>
         <Nav>
           <Link to="/">
-            <HeaderTitle>
-              {data.site.siteMetadata.title}
-              <strong>.dev</strong>
-            </HeaderTitle>
+            <HeaderTitle>{data.site.siteMetadata.title}</HeaderTitle>
           </Link>
-          <HeaderLinks>{/*<ListLink to="/">Blog</ListLink>*/}</HeaderLinks>
+          <HeaderLinks>
+            <ListLink
+              to="/"
+              active={
+                props.location.pathname === "/" ||
+                props.location.pathname.includes("/post")
+              }
+            >
+              Blog
+            </ListLink>
+            <ListLink
+              to="/about"
+              pathname={props.location.pathname === "/about"}
+            >
+              About
+            </ListLink>
+          </HeaderLinks>
         </Nav>
       </Header>
-      <ContentWrapper>{children}</ContentWrapper>
+      <ContentWrapper>{props.children}</ContentWrapper>
     </LayoutWrapper>
   )
 }

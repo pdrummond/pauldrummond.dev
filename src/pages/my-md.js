@@ -4,9 +4,9 @@ import { css } from "styled-components"
 import { rhythm } from "../utils/typography"
 import { DefaultLayout } from "../layouts/default-layout"
 
-export default ({ data }) => {
+export default props => {
   return (
-    <DefaultLayout>
+    <DefaultLayout {...props}>
       <div>
         <h1
           css={css`
@@ -16,8 +16,8 @@ export default ({ data }) => {
         >
           Markdown files
         </h1>
-        <h4>{data.allMarkdownRemark.totalCount} Posts</h4>
-        {data.allMarkdownRemark.edges.map(({ node }) => (
+        <h4>{props.data.allMarkdownRemark.totalCount} Posts</h4>
+        {props.data.allMarkdownRemark.edges.map(({ node }) => (
           <div key={node.id}>
             <h3
               css={css`

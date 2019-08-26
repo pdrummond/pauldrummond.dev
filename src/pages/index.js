@@ -4,7 +4,7 @@ import { Link, graphql, useStaticQuery } from "gatsby"
 import { rhythm } from "../utils/typography"
 import { DefaultLayout } from "../layouts/default-layout"
 
-export default () => {
+export default props => {
   const data = useStaticQuery(graphql`
     query {
       allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
@@ -26,7 +26,7 @@ export default () => {
     }
   `)
   return (
-    <DefaultLayout>
+    <DefaultLayout {...props}>
       <div>
         {data.allMarkdownRemark.edges.map(({ node }) => (
           <div key={node.id}>

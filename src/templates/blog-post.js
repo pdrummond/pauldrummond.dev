@@ -2,12 +2,23 @@ import React from "react"
 import { graphql } from "gatsby"
 import { DefaultLayout } from "../layouts/default-layout"
 
-export default ({ data }) => {
-  const post = data.markdownRemark
+export default props => {
+  const post = props.data.markdownRemark
+  /*const slug = post.fields.slug
+  const twitterDiscussUrl = `https://twitter.com/search?q=${encodeURIComponent(
+    `https://pauldrummond.dev/posts/${slug}`
+  )}`*/
   return (
-    <DefaultLayout>
+    <DefaultLayout {...props}>
       <h1>{post.frontmatter.title}</h1>
       <div dangerouslySetInnerHTML={{ __html: post.html }} />
+      {/*<footer>
+        <p>
+          <a href={twitterDiscussUrl} target="_blank" rel="noopener noreferrer">
+            Discuss on Twitter
+          </a>
+        </p>
+      </footer>*/}
     </DefaultLayout>
   )
 }
@@ -18,6 +29,9 @@ export const query = graphql`
       html
       frontmatter {
         title
+      }
+      fields {
+        slug
       }
     }
   }

@@ -9,8 +9,8 @@ export const Header = styled.header`
   align-items: center;
   display: flex;
   height: 100px;
-  background-color: #23282d;
-  border-bottom: 5px solid orange;
+  background-color: #f7f4ed;
+  border-bottom: 5px solid #ece5d5;
 
   a {
     text-decoration: none;
@@ -27,13 +27,9 @@ export const Nav = styled.nav`
 `
 
 export const HeaderTitle = styled.h3`
-  color: #eeeeee;
+  color: black;
   text-decoration: none;
   margin: 0px;
-
-  strong {
-    color: orange;
-  }
 `
 
 export const HeaderLinks = styled.span`
@@ -42,11 +38,11 @@ export const HeaderLinks = styled.span`
   a {
     padding: 5px;
     text-decoration: none;
-    color: #eeeeee;
+    color: black;
 
     &:hover,
     &.active {
-      border-bottom: 2px solid #3498db;
+      border-bottom: 4px solid #ece5d5;
     }
   }
 `
