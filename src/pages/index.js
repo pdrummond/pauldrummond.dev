@@ -3,6 +3,7 @@ import { css } from "styled-components"
 import { Link, graphql, useStaticQuery } from "gatsby"
 import { rhythm } from "../utils/typography"
 import { DefaultLayout } from "../layouts/default-layout"
+import SEO from "../components/seo"
 
 export default props => {
   const data = useStaticQuery(graphql`
@@ -27,6 +28,7 @@ export default props => {
   `)
   return (
     <DefaultLayout {...props}>
+      <SEO title="Blog" />
       <div>
         {data.allMarkdownRemark.edges.map(({ node }) => (
           <div key={node.id}>

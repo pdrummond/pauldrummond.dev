@@ -1,6 +1,9 @@
 module.exports = {
   siteMetadata: {
     title: `Paul Drummond`,
+    titleTemplate: "%s · Paul Drummond",
+    description: "Paul Drummond's coding blog",
+    url: "https://pauldrummond.dev", // No trailing slash allowed!
   },
   plugins: [
     {
@@ -23,5 +26,6 @@ module.exports = {
         pathToConfigModule: `src/utils/typography`,
       },
     },
+    `gatsby-plugin-react-helmet`,
   ],
 }
