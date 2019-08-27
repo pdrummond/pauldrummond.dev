@@ -62,4 +62,4 @@ fetchClients();
 }, [fetchClient]);
 </pre>
 
-This works because the identity of <code>fetchClients</code> doesn't change thanks to <code>useCallback</code>. The same instance of the function is always being returned by <code>useApContext</code>, so it's the equivalent of invoking <code>fetchClients</code> once when the component mounts, which is exactly what I was expecting it to do in the first place!
+This works because the identity of <code>fetchClients</code> doesn't change thanks to <code>useCallback</code>. The same instance of the function is always being returned by <code>useAppContext</code>, so it's the equivalent of invoking <code>fetchClients</code> once when the component mounts, which is exactly what I was expecting it to do in the first place!
