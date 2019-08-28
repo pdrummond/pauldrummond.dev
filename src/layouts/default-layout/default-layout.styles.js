@@ -38,7 +38,7 @@ export const HeaderLinks = styled.span`
   a {
     padding: 5px;
     text-decoration: none;
-    color: lightgray;
+    color: gray;
 
     &:hover,
     &.active {
