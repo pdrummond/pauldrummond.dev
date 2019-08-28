@@ -3,7 +3,8 @@ module.exports = {
     title: `Paul Drummond`,
     titleTemplate: "%s · Paul Drummond",
     description: "Paul Drummond's coding blog",
-    url: "https://pauldrummond.dev", // No trailing slash allowed!
+    url: "https://pauldrummond.dev",
+    twitterUsername: "@pdrummond",
   },
   plugins: [
     {

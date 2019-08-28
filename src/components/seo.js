@@ -13,6 +13,7 @@ const SEO = ({ title, description, pathname, article }) => (
           titleTemplate,
           defaultDescription,
           siteUrl,
+          twitterUsername,
         },
       },
     }) => {
@@ -33,6 +34,13 @@ const SEO = ({ title, description, pathname, article }) => (
             {seo.title && <meta property="og:title" content={seo.title} />}
             {seo.description && (
               <meta property="og:description" content={seo.description} />
+            )}
+            {twitterUsername && (
+              <meta name="twitter:creator" content={twitterUsername} />
+            )}
+            {seo.title && <meta name="twitter:title" content={seo.title} />}
+            {seo.description && (
+              <meta name="twitter:description" content={seo.description} />
             )}
           </Helmet>
         </>
@@ -65,6 +73,7 @@ const query = graphql`
         titleTemplate
         defaultDescription: description
         siteUrl: url
+        twitterUsername
       }
     }
   }
