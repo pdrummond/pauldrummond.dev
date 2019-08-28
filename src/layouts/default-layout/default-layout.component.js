@@ -48,10 +48,7 @@ export const DefaultLayout = props => {
             >
               Blog
             </ListLink>
-            <ListLink
-              to="/about"
-              pathname={props.location.pathname === "/about"}
-            >
+            <ListLink to="/about" active={props.location.pathname === "/about"}>
               About
             </ListLink>
           </HeaderLinks>

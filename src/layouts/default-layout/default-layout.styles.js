@@ -38,11 +38,12 @@ export const HeaderLinks = styled.span`
   a {
     padding: 5px;
     text-decoration: none;
-    color: black;
+    color: lightgray;
 
     &:hover,
     &.active {
-      border-bottom: 4px solid #ece5d5;
+      color: black;
+      border-bottom: 4px solid black;
     }
   }
 `
