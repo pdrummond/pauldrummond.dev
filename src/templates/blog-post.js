@@ -5,10 +5,10 @@ import SEO from "../components/seo"
 
 export default props => {
   const post = props.data.markdownRemark
-  /*const slug = post.fields.slug
+  const slug = post.fields.slug
   const twitterDiscussUrl = `https://twitter.com/search?q=${encodeURIComponent(
-    `https://pauldrummond.dev/posts/${slug}`
-  )}`*/
+    `https://pauldrummond.dev${slug}`
+  )}`
   return (
     <DefaultLayout {...props}>
       <SEO
@@ -18,13 +18,13 @@ export default props => {
       />
       <h1>{post.frontmatter.title}</h1>
       <div dangerouslySetInnerHTML={{ __html: post.html }} />
-      {/*<footer>
+      <footer>
         <p>
           <a href={twitterDiscussUrl} target="_blank" rel="noopener noreferrer">
             Discuss on Twitter
           </a>
         </p>
-      </footer>*/}
+      </footer>
     </DefaultLayout>
   )
 }
