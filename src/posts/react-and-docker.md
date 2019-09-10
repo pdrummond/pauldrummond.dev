@@ -3,7 +3,9 @@ title: "Playing around with React and Docker"
 date: "2019-09-10"
 ---
 
-_**NOTE:** This article is not finished - more coming soon._
+Just playing around with React and Docker for now. This article is a WIP - more coming soon.
+
+---
 
 First, let's go through the steps of creating a standard React app using [create-react-app](https://create-react-app.dev) and running it inside a [Docker](https://www.docker.com/why-docker) container.
 

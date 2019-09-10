@@ -3,7 +3,11 @@ title: "useEffect and exhaustive-deps"
 date: "2019-08-26"
 ---
 
-If you’ve used <code>useEffect</code> before, you’ve probably come across this error at some point:
+If you’ve used useEffect before, you’ve probably come across a "missing dependency" error at some point.
+
+---
+
+It will look something like this:
 
 <pre>
 React Hook useEffect has a missing dependency: 'myFunction'. Either include it
