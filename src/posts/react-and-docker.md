@@ -96,6 +96,6 @@ npx create-react-app frontend --typescript
 yarn start
 </pre>
 
-So why go to the trouble of putting our React app inside Docker?
+So why go to the trouble of putting the React app inside Docker?
 
 _**NOTE:** This article is not finished - more coming soon._
