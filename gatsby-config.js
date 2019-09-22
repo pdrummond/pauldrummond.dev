@@ -18,6 +18,17 @@ module.exports = {
       resolve: `gatsby-transformer-remark`,
       options: {
         excerpt: true,
+        plugins: [
+          {
+            resolve: `gatsby-remark-prismjs`,
+            options: {
+              showLineNumbers: true,
+              prompt: {
+                global: true,
+              },
+            },
+          },
+        ],
       },
     },
     `gatsby-plugin-styled-components`,
