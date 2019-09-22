@@ -304,8 +304,8 @@ import client from "./utils/feathers"
 const messagesService = client.service("messages")
 
 export default () => {
-  const [messages, setMessages]: any = React.useState([])
-  const [loading, setLoading]: any = React.useState(true)
+  const [messages, setMessages] = React.useState([])
+  const [loading, setLoading] = React.useState(true)
 
   const createMessage = async () => {
     const message = await messagesService.create({
@@ -335,7 +335,9 @@ export default () => {
       <ul>
         {!loading &&
           messages.length > 0 &&
-          messages.map((m: any) => <li>{m.text}</li>)}
+          messages.map((m: any, index: number) => (
+            <li key={index}>{m.text}</li>
+          ))}
       </ul>
     </div>
   )
