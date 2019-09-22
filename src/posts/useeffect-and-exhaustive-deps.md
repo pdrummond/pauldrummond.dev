@@ -3,7 +3,8 @@ title: "useEffect and exhaustive-deps"
 date: "2019-08-26"
 ---
 
-If you’ve used useEffect before, you’ve probably come across a "missing dependency" error at some point.
+If you’ve used useEffect before, you’ve probably come across a "missing
+dependency" error at some point.
 
 ---
 
@@ -14,9 +15,14 @@ React Hook useEffect has a missing dependency: 'myFunction'. Either include it
 or remove the dependency array.eslint(react-hooks/exhaustive-deps)
 ```
 
-But if you follow the advice in the warning and add the function to the dependency list, your app suddenly starts re-rendering infinitely! What's going on?
+But if you follow the advice in the warning and add the function to the
+dependency list, your app suddenly starts re-rendering infinitely! What's
+going on?
 
-Here’s an example taken from a project I'm working on that uses the pattern popularised by Kent C. Dodds <a href="https://kentcdodds.com/blog/application-state-management-with-react">Application State Management with React</a> blog post:
+Here’s an example taken from a project I'm working on that uses the pattern
+popularised by Kent C. Dodds
+<a href="https://kentcdodds.com/blog/application-state-management-with-react">Application State Management with React</a>
+blog post:
 
 ```js
 export const App = () => {
