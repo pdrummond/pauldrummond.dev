@@ -46,5 +46,6 @@ module.exports = {
         head: false,
       },
     },
+    "gatsby-plugin-draft",
   ],
 }
