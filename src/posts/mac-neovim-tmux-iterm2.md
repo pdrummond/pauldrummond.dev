@@ -13,6 +13,8 @@ tl;dr Set-up and usage of neovim, tmux, iterm2 and zsh on MacOSX.
 
 NOTE:
 
+Maybe change this to just how I setup NVIM and then have a different post for TMUX, terminal set-up, etc.
+
 Check out this tutorial: https://www.freecodecamp.org/news/a-guide-to-modern-web-development-with-neo-vim-333f7efbf8e2/
 
 For NVIM maybe all I need is COC and CTRLP to be happy? Don't use Jarvis, just
