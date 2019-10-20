@@ -11,6 +11,28 @@ tl;dr Set-up and usage of neovim, tmux, iterm2 and zsh on MacOSX.
 
 ---
 
+NOTE:
+
+Check out this tutorial: https://www.freecodecamp.org/news/a-guide-to-modern-web-development-with-neo-vim-333f7efbf8e2/
+
+For NVIM maybe all I need is COC and CTRLP to be happy? Don't use Jarvis, just
+learn how to do it myself.
+
+Using https://github.com/ctaylo21/jarvis/blob/master/docs/INSTALL.md
+
+- Clone jarvis and run install script
+- copy init.vim and plugin.vim from jarvis config into ~/.config/nvim
+- Open nvim and run :PlugInstall and :UpdateRemotePlugins
+- Copy custom vim airline theme: config\nvim\space.vim\ to ~/config/nvim/plugged/vim-airline-themes/autoload/airline/themes/space.vim
+- From inside nvim:
+  :CocInstall coc-tsserver
+  :CocInstall coc-eslint
+  :CocInstall coc-prettier
+  :CocInstall coc-css
+  :CocInstall coc-json
+
+---
+
 Up until very recently I had moved away from terminal development and succumed to the draws
 of GUI workflows using tools such as VSCode and Github Desktop because they were "eaiser".
 
