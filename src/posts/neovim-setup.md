@@ -1,14 +1,13 @@
 ---
 title: "Setting up NeoVim on MacOSX"
 date: "2019-10-22"
-draft: true
 ---
 
 This post covers steps to setup NeoVim on MacOS X.
 
 ---
 
-Install NeoVim:
+Install NeoVim.
 
 - `$ brew install nvim`
 - Edit `~/.zshrc` and add `alias vim="nvim"`
@@ -20,20 +19,21 @@ Install Vim Plug:
     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 ```
 
-Set-up coc.nvim
+Set-up JavaScript/TypeScript support
 
 In ~/.config/nvim/init.vim:
 
 ```
-" Use release branch
-Plug 'neoclide/coc.nvim', {'branch': 'release'}
-" Or latest tag
-Plug 'neoclide/coc.nvim', {'tag': '*', 'branch': 'release'}
-" Or build from source code by use yarn: https://yarnpkg.com
-Plug 'neoclide/coc.nvim', {'do': 'yarn install --frozen-lockfile'}
+call plug#begin('~/.vim/plugged')
+  Plug 'neoclide/coc.nvim', {'branch': 'release'}
+  Plug 'neoclide/coc.nvim', {'tag': '*', 'branch': 'release'}
+  Plug 'neoclide/coc.nvim', {'do': 'yarn install --frozen-lockfile'}
+  Plug 'mxw/vim-jsx'
+  Plug 'pangloss/vim-javascript'
+call plug#end()
 ```
 
-Restart nvim and run `:PlugInstall`
+Restart nvim and run `:PlugInstall`.
 
 Then run the following commands inside vim:
 
@@ -49,7 +49,7 @@ Then run the following commands inside vim:
 
 `brew install fzf`
 
-Then add the following to init.vim:
+Then add the following to `~/.config/nvim/init.vim`:
 
 ```
 Plug '/usr/local/opt/fzf'
