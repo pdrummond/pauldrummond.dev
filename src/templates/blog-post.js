@@ -1,4 +1,5 @@
 import React from "react"
+import { css } from "styled-components"
 import { graphql } from "gatsby"
 import { PostLayout } from "../layouts/post-layout"
 import SEO from "../components/seo"
@@ -16,7 +17,16 @@ export default props => {
         description={post.frontmatter.spoiler}
         slug={post.fields.slug}
       />
+      <div
+        css={css`
+          color: #bbb;
+          font-size: 16px;
+        `}
+      >
+        {post.frontmatter.date}
+      </div>
       <h1>{post.frontmatter.title}</h1>
+
       <div dangerouslySetInnerHTML={{ __html: post.html }} />
       <footer>
         <p>
@@ -35,6 +45,7 @@ export const query = graphql`
       html
       frontmatter {
         title
+        date(formatString: "dddd MMMM Do, YYYY")
       }
       fields {
         slug
