@@ -4,11 +4,13 @@ import {
   ContentWrapper,
   Header,
   Nav,
-  HeaderTitle,
+  Heading,
+  HeadingTitle,
+  HeadingImage,
   HeaderLinks,
   HeaderLink,
-} from "./default-layout.styles"
-import "./default-layout.css"
+} from "./home-layout.styles"
+import "./home-layout.css"
 import { useStaticQuery, Link, graphql } from "gatsby"
 
 const ListLink = props => (
@@ -19,7 +21,7 @@ const ListLink = props => (
   </HeaderLink>
 )
 
-export const DefaultLayout = props => {
+export const HomeLayout = props => {
   const data = useStaticQuery(
     graphql`
       query {
@@ -36,7 +38,10 @@ export const DefaultLayout = props => {
       <Header>
         <Nav>
           <Link to="/">
-            <HeaderTitle>{data.site.siteMetadata.title}</HeaderTitle>
+            <Heading>
+              <HeadingImage width="50px" src="/images/me.png" />
+              <HeadingTitle>{data.site.siteMetadata.title}</HeadingTitle>
+            </Heading>
           </Link>
           <HeaderLinks>
             <ListLink

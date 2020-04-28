@@ -1,6 +1,7 @@
 ---
 title: "Setting up ITerm and ZSH on Mac OSX"
 date: "2019-10-22"
+draft: true
 ---
 
 - `$ brew install iterm2`

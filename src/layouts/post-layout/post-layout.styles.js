@@ -9,8 +9,7 @@ export const Header = styled.header`
   align-items: center;
   display: flex;
   height: 100px;
-  background-color: #f7f4ed;
-  border-bottom: 5px solid #ece5d5;
+  background-color: white;
 
   a {
     text-decoration: none;
@@ -27,9 +26,10 @@ export const Nav = styled.nav`
 `
 
 export const HeaderTitle = styled.h3`
-  color: black;
+  color: orange;
   text-decoration: none;
   margin: 0px;
+  margin-top: 10px;
 `
 
 export const HeaderLinks = styled.span`
@@ -57,5 +57,5 @@ export const HeaderLink = styled.div`
 export const ContentWrapper = styled.div`
   max-width: 900px;
   padding: 0 1rem;
-  margin: 3rem auto;
+  margin: 0rem auto;
 `

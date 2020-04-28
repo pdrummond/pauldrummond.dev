@@ -2,7 +2,7 @@ import React from "react"
 import { css } from "styled-components"
 import { Link, graphql, useStaticQuery } from "gatsby"
 import { rhythm } from "../utils/typography"
-import { DefaultLayout } from "../layouts/default-layout"
+import { HomeLayout } from "../layouts/home-layout"
 import SEO from "../components/seo"
 
 export default props => {
@@ -30,7 +30,7 @@ export default props => {
     }
   `)
   return (
-    <DefaultLayout {...props}>
+    <HomeLayout {...props}>
       <SEO title="Blog" />
       <div>
         {data.allMarkdownRemark.edges.map(({ node }) => (
@@ -62,6 +62,6 @@ export default props => {
           </div>
         ))}
       </div>
-    </DefaultLayout>
+    </HomeLayout>
   )
 }

@@ -1,5 +1,5 @@
 ---
-title: "useEffect and exhaustive-deps"
+title: "React useEffect and exhaustive-deps"
 date: "2019-08-26"
 ---
 

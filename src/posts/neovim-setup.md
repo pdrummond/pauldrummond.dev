@@ -1,6 +1,7 @@
 ---
 title: "Setting up NeoVim on MacOSX"
 date: "2019-10-22"
+draft: true
 ---
 
 This post covers steps to setup NeoVim on MacOS X.

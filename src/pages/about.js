@@ -1,9 +1,9 @@
 import React from "react"
-import { DefaultLayout } from "../layouts/default-layout"
+import { HomeLayout } from "../layouts/home-layout"
 
 export default props => {
   return (
-    <DefaultLayout {...props}>
+    <HomeLayout {...props}>
       <ul>
         <li>
           <b>Twitter:</b>{" "}
@@ -20,6 +20,6 @@ export default props => {
           </a>
         </li>
       </ul>
-    </DefaultLayout>
+    </HomeLayout>
   )
 }

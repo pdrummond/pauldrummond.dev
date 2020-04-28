@@ -1,6 +1,6 @@
 import React from "react"
 import { graphql } from "gatsby"
-import { DefaultLayout } from "../layouts/default-layout"
+import { PostLayout } from "../layouts/post-layout"
 import SEO from "../components/seo"
 
 export default props => {
@@ -10,7 +10,7 @@ export default props => {
     `https://pauldrummond.dev${slug}`
   )}`
   return (
-    <DefaultLayout {...props}>
+    <PostLayout {...props}>
       <SEO
         title={post.frontmatter.title}
         description={post.frontmatter.spoiler}
@@ -25,7 +25,7 @@ export default props => {
           </a>
         </p>
       </footer>
-    </DefaultLayout>
+    </PostLayout>
   )
 }
 
