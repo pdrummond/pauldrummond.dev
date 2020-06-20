@@ -8,8 +8,8 @@ worth it.
 
 <!-- end -->
 
-I prefer a single-stage "informal chat" approach where possible. Often I find
-this approach to be more than enough to get a good idea of a candidate's
+I prefer a single-stage "informal chat" approach where possible, usually around
+an hour long. For me, it's the best way to get a good idea of a candidate's
 skillset, especially if they have a lot of experience. I don't see very much
 value in technical code tests. In my opinion the only thing worse than a
 mandated technical code test is an on-the-spot, while-we-watch mandated
@@ -18,56 +18,57 @@ still testing their ability to perform under unrealistic and impractical
 conditions, so who cares if they are good at something completely irrelevant to
 the role?
 
-Sometimes - if torn and unable to decide one way or the other, maybe an offline
-coding exercise time-boxed to a week or so might give me some help towards
-deciding one way or another, but even that is often fraught with
-false-negatives. In general, in my experience a coding exercise is just not
-worth it. That's probably because I'm not really looking for low-level
-programming skills anyway. I'm looking for candidates who posses the following
-skills:
+Sometimes, if torn and unable to decide one way or the other, maybe an offline
+coding exercise time-boxed to a week or so might give some pointers that helps
+towards deciding one way or another. But I still find code tests more often than
+not are fraught with false-negatives making it difficult to take anything of
+value from them. In general, in my experience a coding exercise is just not
+worth it in the end. A big part of my reasoning on this is probably because I'm
+not really looking for low-level programming skills anyway. I'm far more
+interesting in the following skills:
 
 1. **Strong communication skills** - can tell when to be more/less technical,
    value knowledge sharing, good at listening to others before diving in with
    their own opinion. Ability to communicate well without becoming offensive or
    defensive. Ability to take and actively seek constructive criticism.
-2. **Enjoys learning** - not stuck in their way, always considering different
+2. **Enjoys learning** - not stuck in their ways, always considering different
    approaches to problems, learning benefits of new
    languages/frameworks/technologies objectively without latching on blindly to
    the hype train.
 3. **Good collaborator** - ability to defend position without being defensive,
    not afraid to run ideas by other team members, respects “heads down” time as
    well.
-4. **Can deal with failure** - identify problems objectively. Learn from
-   mistakes. Doesn't make the same mistakes over and over.
+4. **Can deal with failure** - can identify problems/issues objectively. Learns
+   from mistakes. Doesn't make the same mistakes over and over.
 5. **Humility** - always being open to alternative solutions. Not afraid to
    admit mistakes. Ability to accept being wrong and consider alternative
    approaches. Doesn't have an attitude where they assume their solution is of
    higher standard than “lesser” colleagues. Acceptance that sometimes the best
-   solution might not be technically the best, but it's the best compromise due
-   to the teams/scenarios involved.
-6. **Good at mentoring and being mentored** - happy to acknowledge areas where
-   they need mentoring while also actively helping others when they can in an
-   approachable way.
+   solution might not be technically the best, but it may be the best
+   compromise.
+6. **Good at mentoring and being mentored** - willingness to acknowledge areas
+   where they want/need mentoring while also actively helping others when they
+   can in an approachable way.
 7. **Good problem solving skills** - value concepts over specifics, critical
    thinking, good at investigating root cause of problems and so on.
 8. **Strong work ethic based on trust** - good working autonomously and being
-   rated based on performance as opposed to heavy-handed time-based
-   micro-management (which usually occurs due to a lack of trust).
-9. **Technically Minded** - strong on general high-level programming concepts,
-   strong interest in technical problem solving, good technical background in
+   rated based on performance as opposed to heavy-handed, time-based
+   micro-management (usually imposed by management due to a lack of trust).
+9. **Technically minded** - strong on general high-level programming concepts,
+   strong interest in technical problem solving, strong technical background in
    general.
 
 Obviously, it's important to be able to actually code as well! But it's
 definitely not the most important skill and besides, it's much easier to figure
-out if someone can code than it is to score them on the above criteria. Being a
-Software Engineer is all about people skills, whether devs like it or not! Even
-the most technically-focused role is still more about working in a team than
-being shit hot at a particular language who hates talking to anyone. In general,
-code readability is far more important than using advanced coding techniques
-that reduce readability. The ability to clearly and patiently teach how a system
-works in an approachable and non-offensive manner is far more important than
-being the only dev in the building who can use it. It really is all about being
-a team player.
+out if someone can code than it is to score them on the above criteria. A good
+programmer excels at low-level programming skills. A good Software Engineer is a
+good programmer plus all of the above. Even the most technically focused role is
+still more about working in a team than being somone who is shit-hot at a
+particular language but hates talking to anyone or sharing knowledge. In
+general, code readability is far more important than using advanced coding
+techniques that reduce readability. The ability to clearly and patiently teach
+how a system works in an approachable and non-offensive manner is far more
+important than being the only dev in the building who understands it!
 
 ---
 
@@ -77,37 +78,36 @@ way out so I can get it over with, but it's quite the opposite! Conducting
 interviews fairly and with a view to getting as much value out of them as
 possible for both parties is one of the hardest parts of my job. I find
 candidates respond to the "informal chat" format extremely well, not because
-it's easy but because they feel like they are being seen as individuals and
-being treated fairly. Both parties appreciate the lack of pointless bureaucracy
-and nonsense that is so common these days. It gives off a really good impression
-about the type of company we are as well. It also helps to relax the candidate
-and make them feel at ease so we can really focus on finding out if they are a
-good fit for us and if we are a good fit for them. It re-frames it from a
-one-sided meeting with an interviewer leading from a position of superiority and
-an air of suspicion to something far more authentic and effective - an equal
-back-and-forth chat where the candidate is just as likely to be asking the
-questions as the interviewer.
+it's easy but because they are being seen as individuals and being treated
+fairly. Both parties appreciate the lack of pointless bureaucracy and nonsense
+that is so common these days. It also helps to relax the candidate and make them
+feel at ease so we can really focus in on finding out if we are a good fit for
+them and vice-versa. It reframes the entire interview from being a one-sided
+meeting with an interviewer leading from a position of superiority and an air of
+suspicion to something far more authentic and effective - a back-and-forth chat
+where the candidate is just as likely to be asking the questions as the
+interviewer.
 
 A lot of interviewers start by describing the role. This is a waste of time
 because most of the time the the candidate isn't even listening at this stage!
 They are too busy freaking out whether there will be an on-the-spot technical
 test! This is why I always start by explaining up-front there will be no tests
-or on-the-spot technical trivia during this interview and it will be an informal
-discussion structured around their CV. I find this instantly puts them at
-ease. Next, I ask the candidate to walk through their CV and give an overview of
-each role, their technical skills, programming languages experience, etc. I try
-very hard not to interrupt them during this part - the purpose of it is to
-provide the context for the rest of the discussion, so I'm hoping they cover a
-wide range of topics that I can revisit when asking questions later. One way I
-avoid interrupting is because I'm too busy writing notes but I have to be
-careful about doing so. I often make a joke _"I have a terrible memory so I'm
-just writing down reminders so I can't come back to them later"_ or something
-like that. Again, this puts them at ease and helps prevent them from wondering
-_"what is he writing about me? Did I just say something wrong?"_.
+or on-the-spot technical trivia - it will be an informal discussion structured
+around their CV. I find this instantly puts them at ease. Next, I ask the
+candidate to walk through their CV and give an overview of each role, their
+technical skills, programming languages experience, etc. I try very hard not to
+interrupt them during this part - the purpose of it is to provide the context
+for the rest of the discussion, so I'm hoping they cover a wide range of topics
+that I can revisit when asking questions later. One way I avoid interrupting is
+because I'm too busy writing notes but I have to be careful about doing so. I
+often make a joke _"I have a terrible memory so I'm just writing down reminders
+so I can't come back to them later"_ or something like that. Again, this puts
+them at ease and helps prevent them from wondering _"what is he writing about
+me? Did I just say something wrong?"_.
 
 After the candidate has finished summarising their CV, I begin asking questions
-such as “what are you most proud of?” and “can you discuss a project you hated
-and why” and “discuss a time when you made a mistake and had to recover”.
+such as _“what are you most proud of?”_ and _“can you discuss a project you hated
+and why?”_ and _“discuss a time when you made a mistake and had to recover”_.
 However, it’s better to avoid asking those questions generically without any
 context as that puts the candidate on the spot and they might rush and choose a
 suboptimal example. So I try to focus the questions on the candidate’s
@@ -123,9 +123,9 @@ discussion:
 2. I try to steer candidates towards talking about high level concepts in a
    back-and-forth chat format rather than short, specific answers to low-level
    programming trivia. For example, if immutability comes up, rather than a
-   generic question such as “What is immutability?”, I try to frame it as a
-   discussion by asking something like “You mentioned immutability when talking
-   about Project X a minute ago. Can you tell us more about that?” Hopefully the
+   generic question such as _“What is immutability?”_, I try to frame it as a
+   discussion by asking something like _“You mentioned immutability when talking
+   about Project X a minute ago. Can you tell us more about that?”._ Hopefully the
    candidate will discuss why they did it, maybe even go into some functional
    aspects of it and talk about their other experiences with it (maybe in
    different programming languages where it is enforced for example).
@@ -154,8 +154,7 @@ discussion:
    3. Thoughts on pair programming. Prefer honest _"It has its uses but … "_
       answers over systematic answers like _"I would enforce it and expect it
       to be implemented perfectly via the following 50 steps"_ or overly
-      extreme and blunt answers like _"I hate it and I always refuse"_ (Unless
-      that's intended as a joke of course!).
+      extreme and blunt answers like _"I hate it and I always refuse"_.
    4. What do they think about UI/UX? Look out for bad attitudes like _"UI is
       simple"_ or _"UI doesn't matter"_. Do they care about UX? Do they talk
       about an experience they've had before where they dealt with colleagues
