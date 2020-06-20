@@ -6,7 +6,7 @@ date: "2019-08-26"
 If you’ve used useEffect before, you’ve probably come across a "missing
 dependency" error at some point.
 
----
+<!-- end -->
 
 It will look something like this:
 

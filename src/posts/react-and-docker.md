@@ -6,7 +6,7 @@ date: "2019-09-22"
 This tutorial demonstrates how to set-up a React-based web app with a
 FeathersJS backend server in one repo using Docker Compose.
 
----
+<!-- end -->
 
 First, let's go through the steps of creating a standard React app using
 [create-react-app](https://create-react-app.dev) and running it inside a
@@ -236,7 +236,7 @@ working. In the backend folder, run `yarn start`. This runs the
 server at `http://localhost:3030`. You should see the feathers logo
 if everything is working correctly.
 
-Usually, this is where we'd switch to the frontend app to hoook it up to our
+Usually, this is where we'd switch to the frontend app to hook it up to our
 "messages" service. But first we want to add it to Docker so we don't need to
 run the server and the frontend separately.
 
