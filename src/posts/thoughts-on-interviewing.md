@@ -24,7 +24,7 @@ help. But I still find code tests more often than not are fraught with
 false-negatives which makes it difficult to take anything of value from them. In
 general, in my experience a coding exercise is just not worth it in the end. A
 big part of my reasoning on this is probably because I'm not really looking for
-low-level programming skills anyway. I'm far more interesting in the following
+low-level programming skills anyway. I'm far more interested in the following
 skills:
 
 1. **Strong communication skills** - can tell when to be more/less technical,
