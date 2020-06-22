@@ -123,13 +123,14 @@ discussion:
 
 2. I try to steer candidates towards talking about high level concepts in a
    back-and-forth chat format rather than short, specific answers to low-level
-   programming trivia. For example, if immutability comes up, rather than a
-   generic question such as _“What is immutability?”_, I try to frame it as a
-   discussion by asking something like _“You mentioned immutability when talking
-   about Project X a minute ago. Can you tell us more about that?”._ Hopefully the
-   candidate will discuss why they did it, maybe even go into some functional
-   aspects of it and talk about their other experiences with it (maybe in
-   different programming languages where it is enforced for example).
+   programming trivia. For example, if the subject of immutability comes up,
+   rather than a generic question such as _“What is immutability?”_, I try to
+   frame it as a discussion by asking something like _“You mentioned
+   immutability when talking about Project X a minute ago. Can you tell us more
+   about that?”._ Hopefully the candidate will discuss why they did it, maybe
+   even go into some functional aspects of it and talk about their other
+   experiences with it (maybe in different programming languages where it is
+   enforced for example).
 3. Throughout, I'm always trying to get a feel for if they are a good fit. I'm
    looking out for all the qualities listed in the section above and looking for
    opportunities to dig a little deeper on any one of these qualities based on
@@ -155,7 +156,7 @@ discussion:
    3. Thoughts on pair programming. Prefer honest _"It has its uses but … "_
       answers over systematic answers like _"I would enforce it and expect it
       to be implemented perfectly via the following 50 steps"_ or overly
-      extreme and blunt answers like _"I hate it and I always refuse"_.
+      extreme and blunt answers like _"I hate it and I refuse to take part"_.
    4. What do they think about UI/UX? Look out for bad attitudes like _"UI is
       simple"_ or _"UI doesn't matter"_. Do they care about UX? Do they talk
       about an experience they've had before where they dealt with colleagues
@@ -164,7 +165,7 @@ discussion:
       programming, OOP, etc. Again, looking for high-level opinions, not
       specific programming details around syntax.
    6. Thoughts on software delivery process based on specific examples form
-      past experience. Things like continuous integration, continuous delivery.
+      past experience. Things like Continuous Integration, Continuous Delivery.
       Benefits, drawbacks, etc.
 
 ---
@@ -178,8 +179,8 @@ going to be treated. This puts the candidate at an immediate disadvantage.
 Unless this situation is remedied right at the start, there is an extremely high
 chance of false-negatives and a danger the entire interview will end up being a
 waste of time for both parties. Or worse, the interviewer may make a decision to
-hire or reject the candidate based on these false-negative which sadly, is
-often the case.
+hire or reject the candidate based on these false-negative which sadly, is often
+the case.
 
 To summarise, the informal-chat approach is based on the interviewer and the
 candidate starting from a position of equality forming a balanced discussion
