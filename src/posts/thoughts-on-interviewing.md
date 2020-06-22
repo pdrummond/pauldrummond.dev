@@ -19,13 +19,13 @@ conditions, so who cares if they are good at something completely irrelevant to
 the role?
 
 Sometimes, if torn and unable to decide one way or the other, maybe an offline
-coding exercise time-boxed to a week or so might give some pointers that helps
-towards deciding one way or another. But I still find code tests more often than
-not are fraught with false-negatives making it difficult to take anything of
-value from them. In general, in my experience a coding exercise is just not
-worth it in the end. A big part of my reasoning on this is probably because I'm
-not really looking for low-level programming skills anyway. I'm far more
-interesting in the following skills:
+coding exercise time-boxed to a week or so might give some pointers that can
+help. But I still find code tests more often than not are fraught with
+false-negatives which makes it difficult to take anything of value from them. In
+general, in my experience a coding exercise is just not worth it in the end. A
+big part of my reasoning on this is probably because I'm not really looking for
+low-level programming skills anyway. I'm far more interesting in the following
+skills:
 
 1. **Strong communication skills** - can tell when to be more/less technical,
    value knowledge sharing, good at listening to others before diving in with
@@ -60,15 +60,16 @@ interesting in the following skills:
 
 Obviously, it's important to be able to actually code as well! But it's
 definitely not the most important skill and besides, it's much easier to figure
-out if someone can code than it is to score them on the above criteria. A good
-programmer excels at low-level programming skills. A good Software Engineer is a
-good programmer plus all of the above. Even the most technically focused role is
-still more about working in a team than being somone who is shit-hot at a
-particular language but hates talking to anyone or sharing knowledge. In
-general, code readability is far more important than using advanced coding
-techniques that reduce readability. The ability to clearly and patiently teach
-how a system works in an approachable and non-offensive manner is far more
-important than being the only dev in the building who understands it!
+out if someone can code (by having a discussion with them) than it is to score
+them on the above criteria. A good programmer excels at low-level programming
+skills. A good Software Engineer is a good programmer plus all of the above.
+Even the most technically focused role is still more about working in a team
+than being somone who is shit-hot at a particular language but hates talking to
+anyone or sharing knowledge. In general, code readability is far more important
+than using advanced coding techniques that reduce readability. The ability to
+clearly and patiently teach how a system works in an approachable and
+non-offensive manner is far more important than being the only dev in the
+building who understands it!
 
 ---
 
