@@ -1,5 +1,5 @@
 ---
-title: "Thoughts on... Interviewing"
+title: "On Interviewing"
 date: "2020-01-06"
 ---
 
