@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Paul Drummond`,
     titleTemplate: "%s · Paul Drummond",
-    description: "Paul Drummond's coding blog",
+    description: "Paul Drummond's dev blog",
     url: "https://pauldrummond.dev",
     twitterUsername: "@pdrummond",
   },
