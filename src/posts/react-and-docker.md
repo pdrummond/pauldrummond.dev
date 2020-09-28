@@ -1,5 +1,5 @@
 ---
-title: "FeathersJS, React and Docker"
+title: "FeathersJS, ReactJS and Docker"
 date: "2019-09-22"
 ---
 
