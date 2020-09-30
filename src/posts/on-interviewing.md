@@ -1,6 +1,6 @@
 ---
 title: "On Interviewing"
-date: "2020-01-06"
+date: "2020-03-06"
 ---
 
 My thoughts on the interview process and whether technical coding tests are

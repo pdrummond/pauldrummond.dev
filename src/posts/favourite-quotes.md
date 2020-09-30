@@ -1,7 +1,11 @@
 ---
 title: "Favourite Quotes"
-date: "2020-05-10"
+date: "2020-06-10"
 ---
+
+A collection of favourite quotes that I keep adding to as I discover more!
+
+<!-- end -->
 
 > 42 doesn’t change. June 29th 2008 doesn’t change. Points don’t move, dates don’t change, no matter what some bad class libraries may cause you to believe. Even aggregates are values. The set of my favourite foods doesn’t change, i.e. if I prefer different foods in the future, that will be a different set."
 > <br/> -- <cite>Rich Hickey on State and Identity</cite>

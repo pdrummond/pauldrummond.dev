@@ -1,17 +1,28 @@
 ---
 title: "Bottom Up Development - Embracing Change (2007)"
-date: "2020-03-12"
+date: "2020-02-02"
 ---
 
-_Re-post - Originally posted on Tuesday 11 December 2007 [here](http://goldfish-geek.blogspot.com/2007/12/bottom-up-development-embracing-change.html)_
+This is a re-post from back in 2007 when I was just starting to get interested a
+mysterious language called Lisp!
+
+<!-- end -->
+
+<i>Originally posted on Tuesday 11 December 2007 [here](http://goldfish-geek.blogspot.com/2007/12/bottom-up-development-embracing-change.html).</i>
 
 I have just read Raganwald’s post, [Something’s Fishy](http://weblog.raganwald.com/2007/12/somethings-fishy.html), and it made me start thinking hard. One statement in particular caught my attention:
 
-> “Now maybe this [bad software] has absolutely nothing to do with programmers.”
+> _Now maybe this [bad software] has absolutely nothing to do with programmers._
 
-In my experience, the fact that writing software is hard is the ultimate driver for all the bureaucracy thrust upon developers in medium to large software houses.
-
-Managers are scarred by past experiences maintaining bug-ridden, badly designed systems so they inevitably try to find ways minimize risk by enforcing rule upon rule. They embrace the fear of “getting it wrong” and introduce layers of process from pre-planning to lengthy design phases, to requirements re-re-re-analysis and so on. Often the rules put in place are ad-hoc, subjective and designed to prevent recurrence of specific personal nightmares from the past which will probably never reoccur again, at least not in exactly the same way.
+In my experience, the fact that writing software is hard is the ultimate driver
+for all the bureaucracy thrust upon developers in medium to large software
+houses. Managers are scarred by past experiences maintaining bug-ridden, badly
+designed systems so they inevitably try to find ways minimize risk by enforcing
+rule upon rule. They embrace the fear of “getting it wrong” and introduce layers
+of process from pre-planning to lengthy design phases, to requirements
+re-re-re-analysis and so on. Often the rules put in place are ad-hoc, subjective
+and designed to prevent recurrence of specific personal nightmares from the past
+which will probably never reoccur again, at least not in exactly the same way.
 
 I believe putting blame on bad management and bureaucracy is generally futile because, while not necessarily incorrect in specific circumstances, they are just symptoms of the real problem. The real problem in my opinion is that - even when using popular dynamic languages like Python - writing bad code is way too easy to do and maintaining it can become a nightmare as time goes on and feature creep has its wicked way with an infrastructure never designed to support the features it is being asked to support.
 

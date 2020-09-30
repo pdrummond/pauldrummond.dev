@@ -1,11 +1,13 @@
 ---
 title: "Confusion with Immutability (2008)"
-date: "2020-04-01"
+date: "2019-09-03"
 ---
 
 Back in 2008, I wrote a post on the Clojure Google Group back when I was
 struggling to understand state and mutability and how to do things The
 Clojure Way.
+
+<!-- end -->
 
 Here is the post in full:
 
