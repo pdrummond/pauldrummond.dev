@@ -6,6 +6,9 @@ date: "2020-05-10"
 > 42 doesn’t change. June 29th 2008 doesn’t change. Points don’t move, dates don’t change, no matter what some bad class libraries may cause you to believe. Even aggregates are values. The set of my favourite foods doesn’t change, i.e. if I prefer different foods in the future, that will be a different set."
 > <br/> -- <cite>Rich Hickey on State and Identity</cite>
 
+> Be kind to unkind people. They need it the most.
+> <br/> -- <cite>Ashleigh Brilliant</cite>
+
 > The cure for boredom is curiosity. There is no cure for curiosity.
 > <br/>-- <cite>Dorothy Parker, (attributed)</cite>
 
