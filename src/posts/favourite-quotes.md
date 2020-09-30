@@ -56,4 +56,4 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > <br/>-- <cite>Brenton Ashworth on Clojure</cite>
 
 > When you let the nose of the camel into the tent, the rest of him tends to follow
-> <br/>-- Ben Moseley, Out of the Tarpit
+> <br/>-- <cite>Ben Moseley, Out of the Tarpit</cite>
