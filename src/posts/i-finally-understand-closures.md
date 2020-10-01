@@ -1,9 +1,9 @@
 ---
 title: "I Finally Understand Closures! (2008)"
-date: "2020-05-09"
+date: "2019-09-03"
 ---
 
-This is a re-post from 2008 when I was obsessed with Emacs and I finally groked
+This is a re-post from 2008 when I had an "aha" moment and finally groked
 closures!
 
 <!-- end -->
