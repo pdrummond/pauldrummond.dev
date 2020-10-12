@@ -3,7 +3,11 @@ title: "On Continuous Delivery"
 date: "2020-10-12"
 ---
 
-I've been continuously delivering software for about three years now and I've learned quite a lot about what works and what doesn't. Here's what I've learned along the way.
+I've been continuously delivering software for about three years now and I've
+learned quite a lot about what works and what doesn't. Here's what I've learned
+along the way.
+
+<!-- end -->
 
 ### First of all, what is Continuous Delivery?
 
