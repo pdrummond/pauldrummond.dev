@@ -100,7 +100,7 @@ start noticing the benefits of this way of working.
 
 This is also a big shift in mindset. We used to have this so ingrained into our
 culture and process, we didn't even realise it was a thing! We would say
-_"deploy to prod"_ all day long and it would be implied that it means _"it's
+_"deploy to prod"_ all day long and it would be implied to mean _"it's
 done, it's ready for release"_. Suddenly, when switching parts of our
 infrastructure to CD, "deploy to prod" meant something completely different!
 This was an extremely difficult issue for us to resolve and it took time. It's
