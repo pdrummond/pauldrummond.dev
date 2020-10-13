@@ -4,8 +4,8 @@ date: "2020-10-12"
 ---
 
 I've been continuously delivering software for about three years now and I've
-gained quite a lot of insight into what works and what doesn't for us at least.
-Here's a what I've learned along the way.
+gained some insight into what works and what doesn't (for us at least). Here's
+what I've learned along the way.
 
 <!-- end -->
 
@@ -15,7 +15,7 @@ Here's a what I've learned along the way.
   care in the world.
 - This isn't about going to production without testing your code.
 - This isn't incompatible with testing practices such as TDD.
-- This isn't a haphazard approach with an emphesis on rushing to prod no matter
+- This isn't a haphazard approach with an emphasis on rushing to prod no matter
   what without caring about quality or stability.
 
 ### What is Continuous Delivery?
@@ -52,7 +52,7 @@ be tested before merging. The deployment pipeline doesn't care about your new
 change - it only cares if you break existing, released code that is being used
 by your end users.
 
-Let's say for example, you are working on a new micro-service. You could merge
+Let's say for example, you are working on a new microservice. You could merge
 dozens of commits per day into the main branch and deploy them all to production
 without breaking a sweat, even if they don't have any tests whatsoever. As long
 as the deployment pipeline is happy, you are good to go. In this particular
@@ -69,7 +69,7 @@ Continuous Delivery, that's all.
 
 Also, this doesn't mean your new functionality is **NEVER** tested at all, just
 that it doesn't need to be tested during development, necessarily. Eventually,
-when you come to release this new micro-service to customers, you'll want to be
+when you come to release this new microservice to customers, you'll want to be
 100% sure it works, and by that point you'll have all the unit tests,
 integration tests and acceptance tests in place.
 
@@ -98,7 +98,7 @@ start noticing the benefits of this way of working.
 
 ### DEPLOY TO PROD != DONE && DEPLOY TO PROD != RELEASE
 
-This is also a big shift in mindset. We used to have this so engrained into our
+This is also a big shift in mindset. We used to have this so ingrained into our
 culture and process, we didn't even realise it was a thing! We would say
 _"deploy to prod"_ all day long and it would be implied that it means _"it's
 done, it's ready for release"_. Suddenly, when switching parts of our
@@ -106,7 +106,7 @@ infrastructure to CD, "deploy to prod" meant something completely different!
 This was an extremely difficult issue for us to resolve and it took time. It's
 often not enough to just communicate it - it has to be learned gradually over
 time and through incremental process changes and many discussions and
-conversations about how and why the defintion of going to production is
+conversations about how and why the definition of going to production is
 changing.
 
 This is also complicated by the fact that tickets often also have a "definition
