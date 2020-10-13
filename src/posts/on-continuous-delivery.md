@@ -141,3 +141,16 @@ release.
 And when it's finally time to release the feature to everyone, you simply turn
 the flag on and it just appears to end users as if it was always there all along
 (because it was!).
+
+### For more information
+
+To find out more about Continuous Delivery check out:
+
+- The book, [Continous Delivery](https://www.amazon.co.uk/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912/ref=sr_1_1?dchild=1&keywords=continuous+delivery&qid=1602616938&sr=8-1) by Jezz Humble and David Farley.
+- Jezz Humble's talk on [Adopting Continuous
+  Delivery](https://www.youtube.com/watch?v=ZLBhVEo1OG4) - it's old but awesome!
+- For dealing with potential downtime during deploys checkout ["Blue Green
+  Deployment"](https://www.martinfowler.com/bliki/BlueGreenDeployment.html).
+- [Martin Fowler's site in general](https://www.martinfowler.com/tags/continuous%20delivery.html) has loads of useful articles on CD.
+- [Launch Darkly](https://launchdarkly.com/).
+- [continuousdelivery.com](https://continuousdelivery.com/).
