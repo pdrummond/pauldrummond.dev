@@ -109,6 +109,13 @@ time and through incremental process changes and many discussions and
 conversations about how and why the defintion of going to production is
 changing.
 
+This is also complicated by the fact that tickets often also have a "definition
+of done", common when using agile frameworks such as SCRUM. Even when talking
+about a specific ticket though, "deploying to production" doesn't necessarily
+mean the ticket is done. A single ticket may require several PRs and each one of
+them will be deployed to production separately. A single ticket is considered
+"done" when all the functionality in the ticket is in production and tested.
+
 ### Learning to embrace Feature Flags
 
 Feature flags are a pretty simple idea, but in practice they can be quite
