@@ -116,6 +116,9 @@ mean the ticket is done. A single ticket may require several PRs and each one of
 them will be deployed to production separately. A single ticket is considered
 "done" when all the functionality in the ticket is in production and tested.
 
+I cover more on why deploying to production is not the same as making a release
+below as this is where Feature Flags come in.
+
 ### Learning to embrace Feature Flags
 
 Feature flags are a pretty simple idea, but in practice they can be quite
@@ -136,5 +139,5 @@ send for testing/demo purposes when you want to show off a new feature prior to
 release.
 
 And when it's finally time to release the feature to everyone, you simply turn
-the flag on and it just appears to end-users as if it was always there all along
+the flag on and it just appears to end users as if it was always there all along
 (because it was!).
