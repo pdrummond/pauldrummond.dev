@@ -166,13 +166,13 @@ Here are just a few reasons:
   development.
 - We can deploy bug fixes to production extremely quickly, sometimes within an
   hour of them being reported, almost always within the same day.
-- We can do demo new features to stakeholders _in production_ during the various
+- We can demo new features to stakeholders _in production_ during the various
   stages of development (usually at the end of each sprint) without affecting
   end-users.
-- We don't need complex branching strategies. We don't even need branches really.
-  It's perfectly fine to merge directly to master. We only really branch so we
+- We don't need complex branching strategies. We don't even need branches
+  really. It's perfectly fine to merge directly to master. We only branch so we
   can get the benefit of peer reviews through GitHub Pull Requests but even
-  then, our branches are always small and short lived.
+  then, our branches are usually small and short lived.
 
 ### For more information
 
