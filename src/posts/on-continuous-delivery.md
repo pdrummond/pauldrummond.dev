@@ -151,7 +151,7 @@ Here are just a few reasons:
 - We are able to deliver small increments of end user value, so it's easy
   to adapt to change as we learn more about our customer's needs.
 - Feature Flags allow us to gradually roll out features to select groups of
-  users to try them out before a full launch.
+  users to try them out before the full launch.
 - We never worry about deploying on a Friday!
 - There is no lengthy release procedure - it's as simple as clicking a button.
 - Our PRs are small and simple, which allows us to do in-depth reviews without
