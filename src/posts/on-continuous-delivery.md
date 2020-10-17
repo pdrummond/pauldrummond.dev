@@ -136,7 +136,6 @@ Using specialized software such as [Launch Darkly](https://launchdarkly.com/),
 it's possible to control feature flags from a central admin interface and even
 turn flags on and off for individual users or groups of users. This is ideal for
 testing/demo purposes when you want to show off a new feature prior to release.
-
 And when it's finally time to release the feature to everyone, you simply turn
 the flag on and it just appears to end users as if it was always there all along
 (because it was! It was just hidden from them).
