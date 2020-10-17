@@ -148,7 +148,7 @@ Here are just a few reasons:
 - It enables us to deliver high quality functionality to our customers quicker
   with less hassle.
 - We are able to deliver small increments of end user value, so it's easy
-  to adapt to change as we learn more about our customer's needs.
+  to adapt to change as we learn more about the needs of our customers.
 - Feature Flags allow us to gradually roll out features to select groups of
   users to try them out before the full launch.
 - We never worry about deploying on a Friday!
