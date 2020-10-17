@@ -1,6 +1,7 @@
 ---
 title: "On Continuous Delivery"
 date: "2020-10-12"
+draft: true
 ---
 
 I've been continuously delivering software for about three years now and I've
@@ -44,13 +45,24 @@ In a Continuous Delivery environment every change you make goes through a
 Deployment Pipeline, which builds the software using a CI system such as
 CircleCI and runs all the unit tests, integrated tests and acceptance tests in
 order to determine if your change breaks anything. Therefore, if your change is
-lucky enough to reach the end of the Deployment Pipeline without anything
-breaking, you can be confident it can be deployed to production at any time.
+lucky enough to reach the end of the Deployment Pipeline without breaking
+anything, you can be confident it can be deployed to production at any time.
 
 The key thing to remember here is that your change itself does **NOT** need to
-be tested before merging. The deployment pipeline doesn't care about your new
-change - it only cares if you break existing, released code that is being used
-by your end users.
+be tested before it goes to production, unless it affects end users. If your
+change is a smaller part of a bigger feature that won't be released to end users
+for a while yet, you can continuously push these smaller changes to production
+during development behind a feature flag with the confidence end users won't be
+affected.
+
+This does not mean you shouldn't test your code at all! It just means testing
+isn't a barrier for going to production because you will be going to production
+from the very moment you start working on a new feature. Testing is just as
+important as ever but now, you write your tests _while_ continuously going to
+production instead trying to get everything perfect up front, then only going to
+production when you're happy everything works. It's a very different approach
+and requires a mindset shift and in some cases unlearning habits you may have
+held close for years!
 
 Let's say for example, you are working on a new microservice. You could merge
 dozens of commits per day into the main branch and deploy them all to production
@@ -61,17 +73,11 @@ too because we only care about what the deployment pipeline cares about, which
 is the functionality we have already released to our customers. And your fancy
 new service doesn't break any of this stuff.
 
-This doesn't mean you shouldn't include unit tests when you make a PR. Perhaps
-you should. Perhaps you want to do TDD? Perhaps you want to write a very small
-piece of code and a very small Unit Test to go with it. That's fine and often
-good practice. The point is - these tests aren't required in order to do
-Continuous Delivery, that's all.
-
-Also, this doesn't mean your new functionality is **NEVER** tested at all, just
-that it doesn't need to be tested during development, necessarily. Eventually,
-when you come to release this new microservice to customers, you'll want to be
-100% sure it works, and by that point you'll have all the unit tests,
-integration tests and acceptance tests in place.
+As you working on this new service you'll be adding tests to it as you go and
+over time, your test coverage will improve and improve, but none of this really
+matters... yet. It's only when your new service starts being used by the rest of
+the system in a way that affects the end user - that's when the Deployment
+Pipline suddenly starts caring.
 
 ### It's a huge mindset shift for developers
 
@@ -141,6 +147,20 @@ release.
 And when it's finally time to release the feature to everyone, you simply turn
 the flag on and it just appears to end users as if it was always there all along
 (because it was!).
+
+### This all sounds like hard work - why bother?
+
+Here are just a few reasons:
+
+- We can deploy bug fixes to production extremely quickly, sometimes within an
+  hour of them being reported, almost always within the same day.
+- We can do demo new features to stakeholders _in production_ during the various
+  stages of development (usually at the end of each sprint) without affecting
+  end-users.
+- We don't need complex branching stategies. We don't even need branches - it's
+  perfectly find to merge directly to master. We only really branch so we can
+  get the benefit of peer reviews through GitHub Pull Requests but our branches
+  are always small and short lived.
 
 ### For more information
 
