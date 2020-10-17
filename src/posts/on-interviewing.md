@@ -80,14 +80,12 @@ interviews fairly and with a view to getting as much value out of them as
 possible for both parties is one of the hardest parts of my job. I find
 candidates respond to the "informal chat" format extremely well, not because
 it's easy but because they are being seen as individuals and being treated
-fairly. Both parties appreciate the lack of pointless bureaucracy and nonsense
-that is so common these days. It also helps to relax the candidate and make them
-feel at ease so we can really focus in on finding out if we are a good fit for
-them and vice-versa. It reframes the entire interview from being a one-sided
-meeting with an interviewer leading from a position of superiority and an air of
-suspicion to something far more authentic and effective - a back-and-forth chat
-where the candidate is just as likely to be asking the questions as the
-interviewer.
+fairly. It also helps to relax the candidate and make them feel at ease so we
+can really focus in on finding out if we are a good fit for them and vice-versa.
+It reframes the entire interview from being a one-sided meeting with an
+interviewer leading from a position of superiority and an air of suspicion to
+something far more authentic and effective - a back-and-forth chat where the
+candidate is just as likely to be asking the questions as the interviewer.
 
 A lot of interviewers start by describing the role. This is a waste of time
 because most of the time the the candidate isn't even listening at this stage!
@@ -115,11 +113,12 @@ suboptimal example. So I try to focus the questions on the candidate’s
 experience as that makes it easier for them to choose ideal examples from
 stories they have already mentioned in their CV summary.
 
-Here are some more guidelines I follow for getting the best out of the
+Here are some more guidelines I try to follow for getting the best out of the
 discussion:
 
-1. I always have some questions prepared beforehand but I try to avoid generic
-   questions - they should be always be based on the candidate’s CV if possible.
+1. I always have some questions prepared beforehand just in case as a back-up
+   but I try to avoid generic questions - they should be always be based on the
+   candidate’s CV if possible.
 
 2. I try to steer candidates towards talking about high level concepts in a
    back-and-forth chat format rather than short, specific answers to low-level
@@ -155,13 +154,13 @@ discussion:
       everything"_ generic answer.
    3. Thoughts on pair programming. Prefer honest _"It has its uses but … "_
       answers over systematic answers like _"I would enforce it and expect it
-      to be implemented perfectly via the following 50 steps"_ or overly
+      to be implemented perfectly via the following 42 steps"_ or overly
       extreme and blunt answers like _"I hate it and I refuse to take part"_.
    4. What do they think about UI/UX? Look out for bad attitudes like _"UI is
       simple"_ or _"UI doesn't matter"_. Do they care about UX? Do they talk
       about an experience they've had before where they dealt with colleagues
       who didn't care about it?
-   5. Thoughts on different types of programming languages such as functional
+   5. Thoughts on different types of programming paradigms such as functional
       programming, OOP, etc. Again, looking for high-level opinions, not
       specific programming details around syntax.
    6. Thoughts on software delivery process based on specific examples form
@@ -176,7 +175,7 @@ where they know exactly what’s going to happen and what they are looking for. 
 the candidate, it could be life-changing, everything is unknown, it’s an
 unfamiliar environment and they have no idea what to expect or how they are
 going to be treated. This puts the candidate at an immediate disadvantage.
-Unless this situation is remedied right at the start, there is an extremely high
+Unless this inequality is defused right at the start, there is an extremely high
 chance of false-negatives and a danger the entire interview will end up being a
 waste of time for both parties. Or worse, the interviewer may make a decision to
 hire or reject the candidate based on these false-negative which sadly, is often
