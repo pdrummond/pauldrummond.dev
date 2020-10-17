@@ -52,19 +52,22 @@ be tested before it goes to production, unless it affects end users. If your
 change is a smaller part of a bigger feature that won't be released to end users
 for a while yet, you can push it to production during development behind a
 feature flag with the confidence end users won't be affected. When in the early
-stages of development, the focus of the Deployment Pipeline is to ensure we
-don't break existing functionality in production. As development continues, we
-gradually add more and more functionality and tests until we reach the point
-where we are nearing release. This is when the tests for our new functionality
-become just as important as the tests for the existing functionality.
+stages of development, the focus of the Deployment Pipeline is to ensure your
+change doesn't break existing functionality in production. There isn't realy
+much value in testing the new code, certainly not on day one when there is
+barely anything to test. As development continues, you work alongside your team
+to increase the test coverage as more functionality is added. During this time,
+the purpose of the Deployment Pipeline gradually shifts more and more towards
+providing confidence the new functionality works correctly as well as checking
+for regressions.
 
-This does not mean you shouldn't test your code at all, of course! It just means
-testing isn't a barrier for going to production because you will be going to
-production from the very moment you start working on a new feature. Testing is
-just as important as ever but now, you write your tests _while_ continuously
-going to production instead trying to get everything perfect up front. It's a
-very different approach. It requires a mindset shift and in some cases
-unlearning habits you may have held close for years!
+In other words, testing isn't a barrier for going to production because you will
+be going to production from the very moment you start working on a new feature.
+Testing is just as important as ever but now, you write your tests _while_
+continuously going to production instead of trying to get everything perfect up
+front _before_ going to production. It's a very different approach. It requires
+a mindset shift and in some cases unlearning habits you may have held close for
+years!
 
 ### It's a huge mindset shift for developers
 
