@@ -50,9 +50,13 @@ anything, you can be confident it can be deployed to production at any time.
 The key thing to remember here is that your change itself does **NOT** need to
 be tested before it goes to production, unless it affects end users. If your
 change is a smaller part of a bigger feature that won't be released to end users
-for a while yet, you can continuously push these smaller changes to production
-during development behind a feature flag with the confidence end users won't be
-affected.
+for a while yet, you can push it to production during development behind a
+feature flag with the confidence end users won't be affected. When in the early
+stages of development, the focus of the Deployment Pipeline is to ensure we
+don't break existing functionality in production. As development continues, we
+gradually add more and more functionality and tests until we reach the point
+where we are nearing release. This is when the tests for our new functionality
+become just as important as the tests for the existing functionality.
 
 This does not mean you shouldn't test your code at all, of course! It just means
 testing isn't a barrier for going to production because you will be going to
