@@ -1,7 +1,6 @@
 ---
 title: "On Continuous Delivery"
 date: "2020-10-12"
-draft: true
 ---
 
 I've been continuously delivering software for about three years now and I've
@@ -81,12 +80,12 @@ Pipline suddenly starts caring.
 
 ### It's a huge mindset shift for developers
 
-In order for Continuous Delivery to work, developers must get used to committing
-changes to the main branch "at least once a day" as a general guideline. This is
-a guideline only - a way to encourage developers to become familiar with working
-this way. But after a while, most devs I work with couldn't tell you whether
-they commit once a day or not - it's usually more often actually. As long as the
-PRs are small and deployable, it doesn't matter.
+In order for Continuous Delivery to work, developers must become accustomed to
+committing changes to the main branch _"at least once a day"_ as a general
+guideline. This is a guideline only - a way to encourage developers to become
+familiar with working this way. But after a while, most developers I work with
+couldn't tell you whether they commit once a day or not - it's usually more
+often actually. As long as the PRs are small and deployable, it doesn't matter.
 
 I've found getting started with this is by far the most difficult part of
 switching to CD though. Developers just hate working this way initially - I
@@ -95,7 +94,7 @@ work on it for days at a time in isolation, with the freedom to contemplate all
 the variants and consider all the use-cases. But with Continuous Delivery, often
 even a simple task must be broken down further and when you create a PR,
 sometimes it only contains a small part of the overall solution. Rather than
-working on functionality in isolation then delivering the entire piece at once,
+working on functionality in isolation then delivering the entire piece at the end,
 you must become comfortable continuously delivering small parts of the overall
 solution and potentially exposing code that is often a work-in-progress or an
 experiment that may have to be rethought later on. It takes quite a while to get
