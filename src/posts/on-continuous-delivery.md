@@ -98,11 +98,11 @@ start noticing the benefits of this way of working.
 
 ### DEPLOY TO PROD != DONE && DEPLOY TO PROD != RELEASE
 
-With Continuously Delivery the definition of "deploy to prod" changes
-dramatically and that can be a very difficult thing to adapt to. We used to have
-this so ingrained into our culture and process, we didn't even realise it was a
-thing! We would say _"deploy to prod"_ all day long and it would be implied to
-mean _"it's done, it's ready for release"_. Suddenly, as we started to gradually
+With Continuous Delivery the definition of "deploy to prod" changes dramatically
+and that can be a very difficult thing to adapt to. We used to have this so
+ingrained into our culture and process, we didn't even realise it was a thing!
+We would say _"deploy to prod"_ all day long and it would be implied to mean
+_"it's done, it's ready for release"_. Suddenly, as we started to gradually
 switch some of our services to CD, "deploy to prod" meant something completely
 different! This was an extremely difficult issue for us to resolve and it took
 time. It's often not enough to just communicate it - it has to be learned
@@ -145,6 +145,13 @@ the flag on and it just appears to end users as if it was always there all along
 
 Here are just a few reasons:
 
+- Deployment to production becomes routine and frictionless.
+- It enables us to deliver high quality functionality to our customers quicker
+  with less hassle.
+- We are able to deliver small increments of end user value, so it's easy
+  to adapt to change as we learn more about our customer's needs.
+- Feature Flags allow us to gradually roll out features to select groups of
+  users to try them out before a full launch.
 - We never worry about deploying on a Friday!
 - There is no lengthy release procedure - it's as simple as clicking a button.
 - Our PRs are small and simple, which allows us to do in-depth reviews without
@@ -152,7 +159,7 @@ Here are just a few reasons:
 - We rarely have to deal with merge conflicts and if we do they are small and
   it's easy to identify what the different changes represent and how best to
   resolve the conflicts.
-- When something goes wrote it's much easier to identify the problem because the
+- When something goes wrong it's much easier to identify the problem because the
   changes are small.
 - We don't "put off" production issues until right at the end, so things like
   production configuration, scalability concerns, issues affecting end users,
