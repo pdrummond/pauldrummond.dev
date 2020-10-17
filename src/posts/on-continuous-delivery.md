@@ -62,17 +62,6 @@ production instead trying to get everything perfect up front. It's a very
 different approach. It requires a mindset shift and in some cases unlearning
 habits you may have held close for years!
 
-It's also worth mentioning that feature flags aren't mandatory, although they
-are very common. Let's say for example, you are working on a new microservice.
-You could merge dozens of commits per day into the main branch and deploy them
-all to production without breaking a sweat, even if they don't have any tests
-whatsoever. You wouldn't necessarily need a feature flag for this service. As
-long as the deployment pipeline is happy, you are good to go. In this particular
-case, the deployment pipeline isn't even aware of your service, and that's fine
-too because we only care about what the deployment pipeline cares about, which
-is the functionality we have already released to our customers. And your fancy
-new service doesn't break any of this stuff.
-
 ### It's a huge mindset shift for developers
 
 In order for Continuous Delivery to work, developers must become accustomed to
