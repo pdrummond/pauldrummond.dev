@@ -54,22 +54,24 @@ for a while yet, you can continuously push these smaller changes to production
 during development behind a feature flag with the confidence end users won't be
 affected.
 
-This does not mean you shouldn't test your code at all! It just means testing
-isn't a barrier for going to production because you will be going to production
-from the very moment you start working on a new feature. Testing is just as
-important as ever but now, you write your tests _while_ continuously going to
-production instead trying to get everything perfect up front. It's a very
-different approach. It requires a mindset shift and in some cases unlearning
-habits you may have held close for years!
+This does not mean you shouldn't test your code at all, of course! It just means
+testing isn't a barrier for going to production because you will be going to
+production from the very moment you start working on a new feature. Testing is
+just as important as ever but now, you write your tests _while_ continuously
+going to production instead trying to get everything perfect up front. It's a
+very different approach. It requires a mindset shift and in some cases
+unlearning habits you may have held close for years!
 
 ### It's a huge mindset shift for developers
 
 In order for Continuous Delivery to work, developers must become accustomed to
 committing changes to the main branch _"at least once a day"_ as a general
-guideline. This is a guideline only - a way to encourage developers to become
-familiar with working this way. But after a while, most developers I work with
-couldn't tell you whether they commit once a day or not - it's usually more
-often actually. As long as the PRs are small and deployable, it doesn't matter.
+guideline (this is actually a requirement of Continuous Integration which is a
+prerequisite for Continuous Delivery). It's a guideline only, however - a way to
+encourage developers to become familiar with working this way. But after a
+while, most developers I work with couldn't tell you whether they commit once a
+day or not - it's usually more often actually. As long as the PRs are small and
+deployable, it doesn't matter.
 
 I've found getting started with this is by far the most difficult part of
 switching to CD though. Developers just hate working this way initially - I
