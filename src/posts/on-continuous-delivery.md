@@ -16,7 +16,7 @@ what I've learned along the way.
 - This isn't about going to production without testing your code.
 - This isn't incompatible with testing practices such as TDD.
 - This isn't about promoting a haphazard approach with an emphasis on rushing to
-  get changes out with caring about quality.
+  get changes out without caring about quality.
 
 ### What is Continuous Delivery?
 
