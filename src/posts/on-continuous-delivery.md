@@ -160,7 +160,7 @@ Here are just a few reasons:
   resolve the conflicts.
 - When something goes wrong it's much easier to identify the problem because the
   changes are small.
-- We don't "put off" production issues until right at the end, so things like
+- We don't put off production issues until right at the end, so things like
   production configuration, scalability concerns, issues affecting end users,
   and so on are all dealt with up front and continuously considered during
   development.
