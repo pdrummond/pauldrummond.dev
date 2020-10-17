@@ -53,7 +53,7 @@ change is a smaller part of a bigger feature that won't be released to end users
 for a while yet, you can push it to production during development behind a
 feature flag with the confidence end users won't be affected. When in the early
 stages of development, the focus of the Deployment Pipeline is to ensure your
-change doesn't break existing functionality in production. There isn't realy
+change doesn't break existing functionality in production. There isn't really
 much value in testing the new code, certainly not on day one when there is
 barely anything to test. As development continues, you work alongside your team
 to increase the test coverage as more functionality is added. During this time,
