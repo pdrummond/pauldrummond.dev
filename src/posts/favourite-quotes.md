@@ -65,9 +65,6 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > I’m an egotistical bastard, and I name all my projects after myself. First ‘Linux’, now 'Git’
 > <br/>-- <cite>Linus Torvalds</cite>
 
-> I’m now convinced that choosing a language based on how easy it is to read or write is a very bad idea. What if we chose musical instruments based on how easy they are to play? Everyone would playing kazoos. You can’t think deeply about music if all you know is a kazoo. Skill at reading and writing code is learned. We should choose languages based on how accurately they allow us to think about the problems we are trying to solve.
-> <br/>-- <cite>Brenton Ashworth on Clojure</cite>
-
 > When you let the nose of the camel into the tent, the rest of him tends to follow
 > <br/>-- <cite>Ben Moseley, Out of the Tarpit</cite>
 
