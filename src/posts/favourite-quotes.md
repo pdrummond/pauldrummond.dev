@@ -7,6 +7,25 @@ A collection of favourite quotes that I keep adding to as I discover more!
 
 <!-- end -->
 
+> To make something generic is to make the simple things complex.
+> <br/> -- <cite>Adam Keys</cite>
+
+> It doesn't matter how much you polish the underside of the banister.
+> <br/> -- <cite>Randy Pausch</cite>
+
+> In order to understand recursion, you must first understand recursion.
+> <br/> -- <cite>ANNON</cite>
+
+> When you let the nose of the camel into the tent, the rest of him tends to follow.
+> <br/> -- <cite>Ben Moseley (Out of the Tarpit)</cite>
+
+> In theory, there is no difference between theory and practice, but in practice
+> there is.
+> <br/> -- <cite>ANNON</cite>
+
+> If you have to eat a frog, don't spend too much time looking at it first and if you have to eat 3 of them DON'T START WITH THE SMALL ONE".
+> <br/> -- <cite>Randy Pausch</cite>
+
 > 42 doesn’t change. June 29th 2008 doesn’t change. Points don’t move, dates don’t change, no matter what some bad class libraries may cause you to believe. Even aggregates are values. The set of my favourite foods doesn’t change, i.e. if I prefer different foods in the future, that will be a different set."
 > <br/> -- <cite>Rich Hickey on State and Identity</cite>
 
