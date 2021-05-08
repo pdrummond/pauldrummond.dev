@@ -1,11 +1,15 @@
 ---
 title: "Favourite Quotes"
-date: "2020-06-10"
+date: "2021-05-08"
 ---
 
 A collection of favourite quotes that I keep adding to as I discover more!
 
 <!-- end -->
+
+> • Stupidity: You think you know everything, without questioning.<br/>
+> • Intelligence: You question everything you think you know.
+> <br/>-- <cite>Richard Feynman</cite>
 
 > To make something generic is to make the simple things complex.
 > <br/>-- <cite>Adam Keys</cite>
