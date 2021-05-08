@@ -8,14 +8,14 @@ worth it.
 
 <!-- end -->
 
-I prefer a single-stage "informal chat" approach where possible, usually around
-an hour long. For me, it's the best way to get a good idea of a candidate's
+I prefer a single-stage informal chat where possible, usually lasting around an
+hour long. I find it's the best way to get a good idea of the candidate's
 skillset, especially if they have a lot of experience. I don't see very much
 value in technical code tests. In my opinion the only thing worse than a
 mandated technical code test is an on-the-spot, while-we-watch mandated
 technical code test. Even if the candidate works well under pressure, you're
 still testing their ability to perform under unrealistic and impractical
-conditions, so who cares if they are good at something completely irrelevant to
+conditions. Who cares if they excel at something completely irrelevant to
 the role?
 
 Sometimes, if torn and unable to decide one way or the other, maybe an offline
