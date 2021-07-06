@@ -5,7 +5,9 @@ export default props => {
   return (
     <HomeLayout {...props}>
       <div>
+        <img src="/images/skye.png" alt="photo of me on Isle of Skye" />
         <h1>Profiles</h1>
+
         <ul>
           <li>
             <b>Twitter:</b>{" "}
