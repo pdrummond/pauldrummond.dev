@@ -34,11 +34,3 @@ the imagination. There is a long way to go. I'm no artist so the graphics are
 very basic at the moment and it’s also very confusing what the various gravity
 states are in some of the more complex levels so I need to add visual clues to
 make that more obvious.
-
-Here are some screenshots:
-
-![http://www.iode.co.uk/kell-is-dead/media/kell-is-dead-tig0.png](http://www.iode.co.uk/kell-is-dead/media/kell-is-dead-tig0.png)
-
-![http://www.iode.co.uk/kell-is-dead/media/kell-is-dead-tig1.png](http://www.iode.co.uk/kell-is-dead/media/kell-is-dead-tig1.png)
-
-![http://www.iode.co.uk/kell-is-dead/media/kell-is-dead-tig2.png](http://www.iode.co.uk/kell-is-dead/media/kell-is-dead-tig2.png)
