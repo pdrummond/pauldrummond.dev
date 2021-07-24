@@ -25,11 +25,26 @@ export default props => {
           </li>
         </ul>
         <br />
-        <br />
-        <br />
-        <br />
         <h1>Side Projects</h1>
         <ul>
+          <li>
+            <a href="https://store.steampowered.com/app/1595300/Kells/">
+              Kells
+            </a>
+            <p>
+              Kells is a retro puzzle game inspired by games of the 90’s such as
+              the original Lemmings, but with a gravity-defying mechanic at its
+              core that provides a unique twist on the genre.
+            </p>
+          </li>
+          <li>
+            <a href="https://www.youtube.com/watch?v=JnGIzZ96n1M">Foobit</a>
+            <p>
+              Foobit is a videogame for Android with a unique take on the
+              classic snake game with many new features and addictive play
+              mechanics.
+            </p>
+          </li>
           <li>
             <a href="https://olz-prod.herokuapp.com/welcome">OpenLoopz</a>
             <p>
