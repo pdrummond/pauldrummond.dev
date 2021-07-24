@@ -1,30 +1,30 @@
 import React from "react"
 import { HomeLayout } from "../layouts/home-layout"
+import { FaTwitter, FaGithub, FaLinkedin } from "react-icons/fa"
 
 export default props => {
   return (
     <HomeLayout {...props}>
       <div>
-        <img src="/images/skye.png" alt="photo of me on Isle of Skye" />
-        <h1>Profiles</h1>
+        <div style={{ display: "flex", justifyContent: "center", gap: "30px" }}>
+          <a style={{ color: "gray" }} href="https://twitter.com/pdrummond">
+            <FaTwitter size="2em" />
+          </a>
+          <a style={{ color: "gray" }} href="https://github.com/pdrummond">
+            <FaGithub size="2em" />
+          </a>
+          <a
+            style={{ color: "gray" }}
+            href="https://linkedin.com/in/paul-drummond-3400318"
+          >
+            <FaLinkedin size="2em" />
+          </a>
+        </div>
 
-        <ul>
-          <li>
-            <b>Twitter:</b>{" "}
-            <a href="https://twitter.com/pdrummond">twitter.com/pdrummond</a>
-          </li>
-          <li>
-            <b>Github:</b>{" "}
-            <a href="https://github.com/pdrummond">github.com/pdrummond</a>
-          </li>
-          <li>
-            <b>LinkedIn:</b>{" "}
-            <a href="https://linkedin.com/in/paul-drummond-3400318">
-              linkedin.com/in/paul-drummond-3400318
-            </a>
-          </li>
-        </ul>
         <br />
+        <br />
+        <img src="/images/skye.png" alt="photo of me on Isle of Skye" />
+
         <h1>Side Projects</h1>
         <ul>
           <li>
