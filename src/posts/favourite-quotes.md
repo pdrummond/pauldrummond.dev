@@ -11,6 +11,10 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > • Intelligence: You question everything you think you know.
 > <br/>-- <cite>Richard Feynman</cite>
 
+> The person who says it cannot be done should not interrupt the person doing
+> it.
+> <br/>-- <cite>Chinese Proverb</cite>
+
 > To make something generic is to make the simple things complex.
 > <br/>-- <cite>Adam Keys</cite>
 
