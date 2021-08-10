@@ -7,6 +7,10 @@ A collection of favourite quotes that I keep adding to as I discover more!
 
 <!-- end -->
 
+> The purpose of life is to discover your gift. The work of life is to develop
+> it. The meaning of life is to give your gift away.”
+> <br/>-- <cite>David Viscott</cite>
+
 > • Stupidity: You think you know everything, without questioning.<br/>
 > • Intelligence: You question everything you think you know.
 > <br/>-- <cite>Richard Feynman</cite>
