@@ -42,8 +42,9 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > there is.
 > <br/>-- <cite>ANNON</cite>
 
-> If you have to eat a frog, don't spend too much time looking at it first and if you have to eat 3 of them DON'T START WITH THE SMALL ONE".
-> <br/>-- <cite>Randy Pausch</cite>
+> If you have to eat a frog, don't spend too much time looking at it first and
+> if you have to eat 3 of them DON'T START WITH THE SMALL ONE". <br/>--
+> <cite>Randy Pausch</cite>
 
 > 42 doesn’t change. June 29th 2008 doesn’t change. Points don’t move, dates don’t change, no matter what some bad class libraries may cause you to believe. Even aggregates are values. The set of my favourite foods doesn’t change, i.e. if I prefer different foods in the future, that will be a different set."
 > <br/>-- <cite>Rich Hickey on State and Identity</cite>
@@ -56,6 +57,9 @@ A collection of favourite quotes that I keep adding to as I discover more!
 
 > The problem with object-oriented languages is they’ve got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle.
 > <br/>-- <cite>Joe Armstrong, interviewed in Coders at Work</cite>
+
+> You can't stop the wave but you can learn to surf
+> <br/>-- <cite>Jon Kabat-Zinn</cite>
 
 > The public have an insatiable curiosity to know everything, except what is
 > worth knowing. <br/>-- <cite>Oscar Wilde</cite>
