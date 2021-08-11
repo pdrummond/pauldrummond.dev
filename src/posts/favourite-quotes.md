@@ -47,6 +47,9 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > The problem with object-oriented languages is they’ve got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle.
 > <br/>-- <cite>Joe Armstrong, interviewed in Coders at Work</cite>
 
+> The public have an insatiable curiosity to know everything, except what is
+> worth knowing. <br/>-- <cite>Oscar Wilde</cite>
+
 > Programming is not about typing, it’s about thinking.
 > <br/>-- <cite>Rich Hickey</cite>
 
@@ -58,6 +61,9 @@ A collection of favourite quotes that I keep adding to as I discover more!
 
 > The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds castles in the air, from air, creating by exertion of the imagination. Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures.
 > <br/>-- <cite>Fred Brooks, The Mythical Man-Month</cite>
+
+> The best thing a human being can do is to help another human being know more.
+> <br/>—- <cite>Charlie Munger</cite>
 
 > Expose Your Ignorance. Tomorrow I need to look stupider and feel better about it. This staying quiet and trying to guess what’s going on isn’t working so well.
 > <br/>-- <cite>Aras Atasaygin on Apprenticeship Patterns</cite>
@@ -82,3 +88,9 @@ A collection of favourite quotes that I keep adding to as I discover more!
 
 > The only thing that really matters in life is your relationships to other people.
 > <br/>-- <cite>George Vaillant, March 2008 newsletter to the Grant Study</cite>
+
+> Yesterday I was clever, so I wanted to change the world. Today I am wise, so I
+> am changing myself. <br/>-— <cite>Rumi</cite>
+
+> All of humanity’s problems stem from man’s inability to sit quietly in a room
+> alone. <br/>--<cite>Blaise Pascal</cite>
