@@ -1,6 +1,6 @@
 ---
 title: "Favourite Quotes"
-date: "2021-08-12"
+date: "2021-08-11"
 ---
 
 A collection of favourite quotes that I keep adding to as I discover more!
@@ -18,8 +18,8 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > it. The meaning of life is to give your gift away.”
 > <br/>-- <cite>David Viscott</cite>
 
-> • Stupidity: You think you know everything, without questioning.<br/>
-> • Intelligence: You question everything you think you know.
+> Stupidity: You think you know everything, without questioning. Intelligence:
+> You question everything you think you know.
 > <br/>-- <cite>Richard Feynman</cite>
 
 > The person who says it cannot be done should not interrupt the person doing
@@ -43,8 +43,8 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > <br/>-- <cite>ANNON</cite>
 
 > If you have to eat a frog, don't spend too much time looking at it first and
-> if you have to eat 3 of them DON'T START WITH THE SMALL ONE". <br/>--
-> <cite>Randy Pausch</cite>
+> if you have to eat 3 of them DON'T START WITH THE SMALL ONE".
+> <br/>-- <cite>Randy Pausch</cite>
 
 > 42 doesn’t change. June 29th 2008 doesn’t change. Points don’t move, dates don’t change, no matter what some bad class libraries may cause you to believe. Even aggregates are values. The set of my favourite foods doesn’t change, i.e. if I prefer different foods in the future, that will be a different set."
 > <br/>-- <cite>Rich Hickey on State and Identity</cite>
