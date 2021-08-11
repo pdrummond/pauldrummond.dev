@@ -7,6 +7,13 @@ A collection of favourite quotes that I keep adding to as I discover more!
 
 <!-- end -->
 
+> I realized that until I knew what was important right now, what was important
+> right now was to figure out what was important right now!
+> <br/>-- <cite>Kyle Kowalski</cite>
+
+> Authenticity is the reduction of phoniness toward the zero point.
+> <br/>-- <cite>A. H. Maslow</cite>
+
 > The purpose of life is to discover your gift. The work of life is to develop
 > it. The meaning of life is to give your gift away.”
 > <br/>-- <cite>David Viscott</cite>
@@ -21,6 +28,9 @@ A collection of favourite quotes that I keep adding to as I discover more!
 
 > To make something generic is to make the simple things complex.
 > <br/>-- <cite>Adam Keys</cite>
+
+> “The main thing is to keep the main thing the main thing.”
+> <br/>-- <cite>Stephen R. Covey</cite>
 
 > It doesn't matter how much you polish the underside of the banister.
 > <br/>-- <cite>Randy Pausch</cite>
