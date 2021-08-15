@@ -8,7 +8,7 @@ A collection of favourite quotes that I keep adding to as I discover more!
 <!-- end -->
 
 > The best thing a human being can do is to help another human being know more.
-> <br/>—- <cite>Charlie Munger</cite>
+> <br/>-- <cite>Charlie Munger</cite>
 
 > Time you enjoy wasting is not wasted time.
 > <br/>-- <cite><a href="https://quoteinvestigator.com/2010/06/11/time-you-enjoy/">Marthe Troly-Curtin</a></cite>
