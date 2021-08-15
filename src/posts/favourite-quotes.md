@@ -7,6 +7,9 @@ A collection of favourite quotes that I keep adding to as I discover more!
 
 <!-- end -->
 
+> Be kind to unkind people. They need it the most.
+> <br/>-- <cite>Ashleigh Brilliant</cite>
+
 > The best thing a human being can do is to help another human being know more.
 > <br/>-- <cite>Charlie Munger</cite>
 
@@ -40,9 +43,6 @@ A collection of favourite quotes that I keep adding to as I discover more!
 
 > The main thing is to keep the main thing the main thing.
 > <br/>-- <cite>Stephen R. Covey</cite>
-
-> Be kind to unkind people. They need it the most.
-> <br/>-- <cite>Ashleigh Brilliant</cite>
 
 > You can't stop the wave but you can learn to surf.
 > <br/>-- <cite>Jon Kabat-Zinn</cite>
