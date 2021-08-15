@@ -7,6 +7,9 @@ A collection of favourite quotes that I keep adding to as I discover more!
 
 <!-- end -->
 
+> Time you enjoy wasting is not wasted time.
+> <br/>-- <cite><a href="https://quoteinvestigator.com/2010/06/11/time-you-enjoy/">Marthe Troly-Curtin</a></cite>
+
 > I realized that until I knew what was important right now, what was important
 > right now was to figure out what was important right now!
 > <br/>-- <cite>Kyle Kowalski</cite>
