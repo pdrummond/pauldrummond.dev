@@ -7,14 +7,16 @@ A collection of favourite quotes that I keep adding to as I discover more!
 
 <!-- end -->
 
-> Be kind to unkind people. They need it the most.
-> <br/>-- <cite>Ashleigh Brilliant</cite>
-
-> The best thing a human being can do is to help another human being know more.
-> <br/>-- <cite>Charlie Munger</cite>
-
 > Time you enjoy wasting is not wasted time.
 > <br/>-- <cite><a href="https://quoteinvestigator.com/2010/06/11/time-you-enjoy/">Marthe Troly-Curtin</a></cite>
+
+> There are only two kinds of languages: the ones people complain about and the
+> ones nobody uses
+> <br/>-- <cite>Bjarne Stroustrup</cite>
+
+> The purpose of life is to discover your gift. The work of life is to develop
+> it. The meaning of life is to give your gift away.
+> <br/>-- <cite>David Viscott</cite>
 
 > I realized that until I knew what was important right now, what was important
 > right now was to figure out what was important right now!
@@ -22,10 +24,6 @@ A collection of favourite quotes that I keep adding to as I discover more!
 
 > Authenticity is the reduction of phoniness toward the zero point.
 > <br/>-- <cite>A. H. Maslow</cite>
-
-> The purpose of life is to discover your gift. The work of life is to develop
-> it. The meaning of life is to give your gift away.
-> <br/>-- <cite>David Viscott</cite>
 
 > Stupidity: You think you know everything, without questioning. Intelligence:
 > You question everything you think you know.
@@ -43,6 +41,16 @@ A collection of favourite quotes that I keep adding to as I discover more!
 
 > The main thing is to keep the main thing the main thing.
 > <br/>-- <cite>Stephen R. Covey</cite>
+
+> Be kind to unkind people. They need it the most.
+> <br/>-- <cite>Ashleigh Brilliant</cite>
+
+> You can be in the back seat and travel to a place a hundred times. But until
+> you take the driver's seat you'll never know the way.
+> <br/>-- <cite><a href="https://www.nashvail.me/blog/stop-learning">Nash Vail</a></cite>
+
+> The best thing a human being can do is to help another human being know more.
+> <br/>-- <cite>Charlie Munger</cite>
 
 > You can't stop the wave but you can learn to surf.
 > <br/>-- <cite>Jon Kabat-Zinn</cite>
