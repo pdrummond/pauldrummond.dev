@@ -4,6 +4,9 @@ date: "2021-07-20"
 draft: true
 ---
 
+The idea of "breaking down" a user story is very strange to me, despite how
+common it is.
+
 When breaking down a user story, I find it’s often better to do so _vertically_
 instead of _horizontally_. What I mean by this is that often engineers prefer to
 work on layers of functionality such as _“Implement the UI”_, _“Implement the
