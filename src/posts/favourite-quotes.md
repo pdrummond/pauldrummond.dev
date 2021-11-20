@@ -7,31 +7,36 @@ A collection of favourite quotes that I keep adding to as I discover more!
 
 <!-- end -->
 
+> There is nothing noble in being superior to your fellow man; true nobility is
+> being superior to your former self.
+> <br/>-- <cite>Ernest Hemingway</cite>
+
 > Time you enjoy wasting is not wasted time.
 > <br/>-- <cite><a href="https://quoteinvestigator.com/2010/06/11/time-you-enjoy/">Marthe Troly-Curtin</a></cite>
-
-> There are only two kinds of languages: the ones people complain about and the
-> ones nobody uses
-> <br/>-- <cite>Bjarne Stroustrup</cite>
-
-> The purpose of life is to discover your gift. The work of life is to develop
-> it. The meaning of life is to give your gift away.
-> <br/>-- <cite>David Viscott</cite>
-
-> I realized that until I knew what was important right now, what was important
-> right now was to figure out what was important right now!
-> <br/>-- <cite><a href="https://www.sloww.co/about/">Kyle Kowalski</a></cite>
-
-> Authenticity is the reduction of phoniness toward the zero point.
-> <br/>-- <cite>A. H. Maslow</cite>
 
 > Stupidity: You think you know everything, without questioning. Intelligence:
 > You question everything you think you know.
 > <br/>-- <cite>Richard Feynman</cite>
 
+> Programming is a way of thinking, not a rote skill. Learning about "for" loops
+> is not learning to program, any more than learning about pencils is learning
+> to draw.
+> <br/>-- <cite>Bret Victor</cite>
+
+> Authenticity is the reduction of phoniness toward the zero point.
+> <br/>-- <cite>A. H. Maslow</cite>
+
+> I realized that until I knew what was important right now, what was important
+> right now was to figure out what was important right now!
+> <br/>-- <cite><a href="https://www.sloww.co/about/">Kyle Kowalski</a></cite>
+
 > The person who says it cannot be done should not interrupt the person doing
 > it.
 > <br/>-- <cite>Chinese Proverb</cite>
+
+> There are only two kinds of languages: the ones people complain about and the
+> ones nobody uses
+> <br/>-- <cite>Bjarne Stroustrup</cite>
 
 > To make something generic is to make the simple things complex.
 > <br/>-- <cite>Adam Keys</cite>
@@ -115,3 +120,7 @@ A collection of favourite quotes that I keep adding to as I discover more!
 
 > All of humanity’s problems stem from man’s inability to sit quietly in a room
 > alone. <br/>--<cite>Blaise Pascal</cite>
+
+> The purpose of life is to discover your gift. The work of life is to develop
+> it. The meaning of life is to give your gift away.
+> <br/>-- <cite>David Viscott</cite>
