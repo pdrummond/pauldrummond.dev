@@ -7,10 +7,6 @@ A collection of favourite quotes that I keep adding to as I discover more!
 
 <!-- end -->
 
-> There is nothing noble in being superior to your fellow man; true nobility is
-> being superior to your former self.
-> <br/>-- <cite>Ernest Hemingway</cite>
-
 > Time you enjoy wasting is not wasted time.
 > <br/>-- <cite><a href="https://quoteinvestigator.com/2010/06/11/time-you-enjoy/">Marthe Troly-Curtin</a></cite>
 
@@ -124,3 +120,10 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > The purpose of life is to discover your gift. The work of life is to develop
 > it. The meaning of life is to give your gift away.
 > <br/>-- <cite>David Viscott</cite>
+
+> There is nothing noble in being superior to your fellow man; true nobility is
+> being superior to your former self.
+> <br/>-- <cite>Ernest Hemingway</cite>
+
+> If you hate a person then you are defeated by them.
+> <br/>-- <cite>Confucius</cite>
