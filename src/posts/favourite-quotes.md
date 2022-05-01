@@ -10,8 +10,8 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > Time you enjoy wasting is not wasted time.
 > <br/>-- <cite><a href="https://quoteinvestigator.com/2010/06/11/time-you-enjoy/">Marthe Troly-Curtin</a></cite>
 
-> Stupidity: You think you know everything, without questioning. Intelligence:
-> You question everything you think you know.
+> Stupidity: You think you know everything, without questioning. <br/>
+> Intelligence: You question everything you think you know.
 > <br/>-- <cite>Richard Feynman</cite>
 
 > What you do on your bad days matters more than what you do on your good days.
