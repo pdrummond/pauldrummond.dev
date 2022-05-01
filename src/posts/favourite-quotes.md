@@ -1,6 +1,6 @@
 ---
 title: "Favourite Quotes"
-date: "2021-08-11"
+date: "2022-05-01"
 ---
 
 A collection of favourite quotes that I keep adding to as I discover more!
@@ -13,6 +13,9 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > Stupidity: You think you know everything, without questioning. Intelligence:
 > You question everything you think you know.
 > <br/>-- <cite>Richard Feynman</cite>
+
+> What you do on your bad days matters more than what you do on your good days.
+> <br/>-- <cite><a href="https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/">Kevin Kelly</a></cite>
 
 > Programming is a way of thinking, not a rote skill. Learning about "for" loops
 > is not learning to program, any more than learning about pencils is learning
@@ -30,9 +33,15 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > it.
 > <br/>-- <cite>Chinese Proverb</cite>
 
+> Making art is not selfish; it’s for the rest of us. If you don’t do your thing, you are cheating us.
+> <br/>-- <cite><a href="https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/">Kevin Kelly</a></cite>
+
 > There are only two kinds of languages: the ones people complain about and the
 > ones nobody uses
 > <br/>-- <cite>Bjarne Stroustrup</cite>
+
+> Speak confidently as if you are right, but listen carefully as if you are wrong.
+> <br/>-- <cite><a href="https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/">Kevin Kelly</a></cite>
 
 > To make something generic is to make the simple things complex.
 > <br/>-- <cite>Adam Keys</cite>
@@ -127,3 +136,7 @@ A collection of favourite quotes that I keep adding to as I discover more!
 
 > If you hate a person then you are defeated by them.
 > <br/>-- <cite>Confucius</cite>
+
+> Grant me the serenity to accept the things I cannot change, courage to change
+> the things I can, and wisdom to know the difference.
+> <br/>-- <cite>Serenity Prayer</cite>

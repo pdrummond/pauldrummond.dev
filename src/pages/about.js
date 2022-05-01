@@ -23,7 +23,7 @@ export default props => {
 
         <br />
         <br />
-        <img src="/images/skye.png" alt="photo of me on Isle of Skye" />
+        <img src="/images/skye.png" alt="" />
 
         <h1>Side Projects</h1>
         <ul>
