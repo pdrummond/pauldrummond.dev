@@ -1,11 +1,14 @@
 ---
 title: "Favourite Quotes"
-date: "2022-05-01"
+date: "2022-05-07"
 ---
 
 A collection of favourite quotes that I keep adding to as I discover more!
 
 <!-- end -->
+
+> Being entirely honest with oneself is a good exercise
+> <br/>-- <cite>Sigmund Freud</cite>
 
 > Time you enjoy wasting is not wasted time.
 > <br/>-- <cite><a href="https://quoteinvestigator.com/2010/06/11/time-you-enjoy/">Marthe Troly-Curtin</a></cite>
@@ -140,3 +143,6 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > Grant me the serenity to accept the things I cannot change, courage to change
 > the things I can, and wisdom to know the difference.
 > <br/>-- <cite>Serenity Prayer</cite>
+
+> We beat Level 1 when we figure out how to stop killing each other and come together as a single consciousness. I wonder what Level 2 will be like?
+> <br/> -- <cite>Me</cite>
