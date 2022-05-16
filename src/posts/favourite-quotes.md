@@ -1,14 +1,14 @@
 ---
 title: "Favourite Quotes"
-date: "2022-05-07"
+date: "2022-05-16"
 ---
 
 A collection of favourite quotes that I keep adding to as I discover more!
 
 <!-- end -->
 
-> Being entirely honest with oneself is a good exercise
-> <br/>-- <cite>Sigmund Freud</cite>
+> What progress we are making; in the Middle Ages they would have burned me. Nowadays they are content with burning my books.
+> <br/>-- <cite><a href="https://www.pbs.org/wgbh/questionofgod/transcript/promised.html">Sigmund Freud</a></cite>
 
 > Time you enjoy wasting is not wasted time.
 > <br/>-- <cite><a href="https://quoteinvestigator.com/2010/06/11/time-you-enjoy/">Marthe Troly-Curtin</a></cite>
@@ -58,6 +58,9 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > Be kind to unkind people. They need it the most.
 > <br/>-- <cite>Ashleigh Brilliant</cite>
 
+> Being entirely honest with oneself is a good exercise
+> <br/>-- <cite>Sigmund Freud</cite>
+
 > You can be in the back seat and travel to a place a hundred times. But until
 > you take the driver's seat you'll never know the way.
 > <br/>-- <cite><a href="https://www.nashvail.me/blog/stop-learning">Nash Vail</a></cite>
@@ -68,12 +71,24 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > You can't stop the wave but you can learn to surf.
 > <br/>-- <cite>Jon Kabat-Zinn</cite>
 
+> I cannot face the idea of life without work. What would one do when ideas failed or words refused to come? It is impossible not to shudder at the thought.
+> <br/>-- <cite><a href="https://www.pbs.org/wgbh/questionofgod/transcript/promised.html">Sigmund Freud</a></cite>
+
 > In order to understand recursion, you must first understand recursion.
 > <br/>-- <cite>ANNON</cite>
+
+> Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways.
+> <br/>-- <cite>Sigmund Freud</cite>
 
 > In theory, there is no difference between theory and practice, but in practice
 > there is.
 > <br/>-- <cite>ANNON</cite>
+
+> No one who distains the key will be able to unlock the door
+> <br/>-- <cite>Sigmund Freud</cite>
+
+> The idea is to die young as late as possible
+> <br/>-- <cite>Ashley Montagu</cite>
 
 > If you have to eat a frog, don't spend too much time looking at it first and
 > if you have to eat 3 of them DON'T START WITH THE SMALL ONE.
@@ -145,4 +160,7 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > <br/>-- <cite>Serenity Prayer</cite>
 
 > We beat Level 1 when we figure out how to stop killing each other and come together as a single consciousness. I wonder what Level 2 will be like?
-> <br/> -- <cite>Me</cite>
+> <br/>-- <cite>Me</cite>
+
+> Mankind is the only species in the universe that has found a way to measure something that doesn't exist (time!)
+> <br/>-- <cite>Dolores Cannon</cite>
