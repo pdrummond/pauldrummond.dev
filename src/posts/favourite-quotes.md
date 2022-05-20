@@ -1,6 +1,6 @@
 ---
 title: "Favourite Quotes"
-date: "2022-05-16"
+date: "2022-05-20"
 ---
 
 A collection of favourite quotes that I keep adding to as I discover more!
@@ -43,6 +43,9 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > ones nobody uses
 > <br/>-- <cite>Bjarne Stroustrup</cite>
 
+> If you could just sit for 30 minutes and be happy you are successful, but very few of us get there.
+> <br/>-- <cite>Navel Ravikant</cite>
+
 > Speak confidently as if you are right, but listen carefully as if you are wrong.
 > <br/>-- <cite><a href="https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/">Kevin Kelly</a></cite>
 
@@ -51,6 +54,9 @@ A collection of favourite quotes that I keep adding to as I discover more!
 
 > It doesn't matter how much you polish the underside of the banister.
 > <br/>-- <cite>Randy Pausch</cite>
+
+> Life-hack: when in bed, meditate. Either you will have a deep meditation or fall asleep. Victory either way.
+> <br/>-- <cite>Navel Ravikant</cite>
 
 > The main thing is to keep the main thing the main thing.
 > <br/>-- <cite>Stephen R. Covey</cite>
@@ -114,6 +120,15 @@ A collection of favourite quotes that I keep adding to as I discover more!
 
 > Programming is not about typing, it’s about thinking.
 > <br/>-- <cite>Rich Hickey</cite>
+
+> Don't take yourself too seriously. You're just a monkey with a plan.
+> <br/>-- <cite>Navel Ravikant</cite>
+
+> Anger is a hot coal you hold in your hand while waiting to throw it at somebody
+> <br/>-- <cite>Buddha</cite>
+
+> Health, love and your mission, in that order. Nothing else matters
+> <br/>-- <cite>Navel Ravikant</cite>
 
 > The programmer, like the poet, works only slightly removed from pure
 > thought-stuff. He builds castles in the air, from air, creating by exertion of
