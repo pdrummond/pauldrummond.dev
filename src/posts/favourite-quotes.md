@@ -1,11 +1,14 @@
 ---
 title: "Favourite Quotes"
-date: "2022-05-20"
+date: "2022-05-21"
 ---
 
 A collection of favourite quotes that I keep adding to as I discover more!
 
 <!-- end -->
+
+> Whether it's business, exercise, romance, friendship, whatever, I think the meaning of life is to do things for their own sake.
+> <br/>-- <cite>Naval Ravikant</cite>
 
 > What progress we are making; in the Middle Ages they would have burned me. Nowadays they are content with burning my books.
 > <br/>-- <cite><a href="https://www.pbs.org/wgbh/questionofgod/transcript/promised.html">Sigmund Freud</a></cite>
@@ -67,6 +70,9 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > Being entirely honest with oneself is a good exercise
 > <br/>-- <cite>Sigmund Freud</cite>
 
+> Escape competition through authenticity
+> <br/>-- <cite>Naval Ravikant</cite>
+
 > You can be in the back seat and travel to a place a hundred times. But until
 > you take the driver's seat you'll never know the way.
 > <br/>-- <cite><a href="https://www.nashvail.me/blog/stop-learning">Nash Vail</a></cite>
@@ -82,6 +88,9 @@ A collection of favourite quotes that I keep adding to as I discover more!
 
 > In order to understand recursion, you must first understand recursion.
 > <br/>-- <cite>ANNON</cite>
+
+> Intentions don't matter, actions do
+> <br/>-- <cite>Naval Ravikant</cite>
 
 > Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways.
 > <br/>-- <cite>Sigmund Freud</cite>
@@ -109,6 +118,9 @@ A collection of favourite quotes that I keep adding to as I discover more!
 
 > The cure for boredom is curiosity. There is no cure for curiosity.
 > <br/>-- <cite>Dorothy Parker, (attributed)</cite>
+
+> There are almost 7 billion people on this planet. Somehow I hope there will be almost 7 billion companies.
+> <br/>-- <cite>Naval Ravikant</cite>
 
 > The problem with object-oriented languages is they’ve got all this implicit
 > environment that they carry around with them. You wanted a banana but what you
@@ -140,6 +152,9 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > it. This staying quiet and trying to guess what’s going on isn’t working so
 > well.
 > <br/>-- <cite>Aras Atasaygin on Apprenticeship Patterns</cite>
+
+> Those attacking wealth creation are often just seeking status
+> <br/>-- <cite>Naval Ravikant</cite>
 
 > But I was largely motivated by anxiety, a ceaseless feeling that I had to find
 > some way, any way, to make more money.
