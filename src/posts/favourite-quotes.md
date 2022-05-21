@@ -7,21 +7,27 @@ A collection of favourite quotes that I keep adding to as I discover more!
 
 <!-- end -->
 
+> Happiness is there when you remove the sense of something missing in your life
+> <br/>-- <cite>Naval Ravikant</cite>
+
+> What you do on your bad days matters more than what you do on your good days.
+> <br/>-- <cite><a href="https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/">Kevin Kelly</a></cite>
+
+> Time you enjoy wasting is not wasted time.
+> <br/>-- <cite><a href="https://quoteinvestigator.com/2010/06/11/time-you-enjoy/">Marthe Troly-Curtin</a></cite>
+
 > Whether it's business, exercise, romance, friendship, whatever, I think the meaning of life is to do things for their own sake.
 > <br/>-- <cite>Naval Ravikant</cite>
 
 > What progress we are making; in the Middle Ages they would have burned me. Nowadays they are content with burning my books.
 > <br/>-- <cite><a href="https://www.pbs.org/wgbh/questionofgod/transcript/promised.html">Sigmund Freud</a></cite>
 
-> Time you enjoy wasting is not wasted time.
-> <br/>-- <cite><a href="https://quoteinvestigator.com/2010/06/11/time-you-enjoy/">Marthe Troly-Curtin</a></cite>
-
 > Stupidity: You think you know everything, without questioning. <br/>
 > Intelligence: You question everything you think you know.
 > <br/>-- <cite>Richard Feynman</cite>
 
-> What you do on your bad days matters more than what you do on your good days.
-> <br/>-- <cite><a href="https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/">Kevin Kelly</a></cite>
+> Coding is the new literacy.
+> <br/>-- <cite>Naval Ravikant</cite>
 
 > Programming is a way of thinking, not a rote skill. Learning about "for" loops
 > is not learning to program, any more than learning about pencils is learning
@@ -31,6 +37,9 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > Authenticity is the reduction of phoniness toward the zero point.
 > <br/>-- <cite>A. H. Maslow</cite>
 
+> Every positive thought essentially holds within it a negative thought
+> <br/>-- <cite>Naval Ravikant</cite>
+
 > I realized that until I knew what was important right now, what was important
 > right now was to figure out what was important right now!
 > <br/>-- <cite><a href="https://www.sloww.co/about/">Kyle Kowalski</a></cite>
@@ -38,6 +47,9 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > The person who says it cannot be done should not interrupt the person doing
 > it.
 > <br/>-- <cite>Chinese Proverb</cite>
+
+> Learn math, kids. Speaking the language of nature is the ultimate superpower.
+> <br/>-- <cite>Naval Ravikant</cite>
 
 > Making art is not selfish; it’s for the rest of us. If you don’t do your thing, you are cheating us.
 > <br/>-- <cite><a href="https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/">Kevin Kelly</a></cite>
@@ -86,6 +98,9 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > I cannot face the idea of life without work. What would one do when ideas failed or words refused to come? It is impossible not to shudder at the thought.
 > <br/>-- <cite><a href="https://www.pbs.org/wgbh/questionofgod/transcript/promised.html">Sigmund Freud</a></cite>
 
+> Much greatness in life comes out of suffering. You have to view the negative before you can aspire to and appreciate the positive.
+> <br/>-- Naval Ravikant
+
 > In order to understand recursion, you must first understand recursion.
 > <br/>-- <cite>ANNON</cite>
 
@@ -104,6 +119,9 @@ A collection of favourite quotes that I keep adding to as I discover more!
 
 > The idea is to die young as late as possible
 > <br/>-- <cite>Ashley Montagu</cite>
+
+> Free education is abundant, all over the Internet. It's the desire to learn that's scarce.  
+> <br/>-- <cite>Naval Ravikant</cite>
 
 > If you have to eat a frog, don't spend too much time looking at it first and
 > if you have to eat 3 of them DON'T START WITH THE SMALL ONE.
@@ -184,6 +202,9 @@ A collection of favourite quotes that I keep adding to as I discover more!
 
 > If you hate a person then you are defeated by them.
 > <br/>-- <cite>Confucius</cite>
+
+> Someday, not being proficient with computers will be considered a form of illiteracy.
+> <br/>-- <cite>Naval Ravikant</cite>
 
 > Grant me the serenity to accept the things I cannot change, courage to change
 > the things I can, and wisdom to know the difference.
