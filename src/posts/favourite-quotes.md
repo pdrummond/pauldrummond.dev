@@ -1,13 +1,21 @@
 ---
 title: "Favourite Quotes"
-date: "2022-05-21"
+date: "2022-05-22"
 ---
 
 A collection of favourite quotes that I keep adding to as I discover more!
 
 <!-- end -->
 
-> Happiness is there when you remove the sense of something missing in your life
+> The clearer our insight into what is beyond good and evil, the more we can embody the good.
+> <br/>-- <cite>Lao Tzu</cite>
+
+> The greatest help is wholeheartedly trusting people to resolve their own problems.
+> A true philanthropist, like a good parent, brings people to the point where they
+> can help themselves.
+> <br/>-- <cite>Stephen Mitchell</cite>
+
+> Happiness is there when you remove the sense of something missing in your life.
 > <br/>-- <cite>Naval Ravikant</cite>
 
 > What you do on your bad days matters more than what you do on your good days.
@@ -16,10 +24,12 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > Time you enjoy wasting is not wasted time.
 > <br/>-- <cite><a href="https://quoteinvestigator.com/2010/06/11/time-you-enjoy/">Marthe Troly-Curtin</a></cite>
 
-> Whether it's business, exercise, romance, friendship, whatever, I think the meaning of life is to do things for their own sake.
+> Whether it's business, exercise, romance, friendship, whatever, I think the
+> meaning of life is to do things for their own sake.
 > <br/>-- <cite>Naval Ravikant</cite>
 
-> What progress we are making; in the Middle Ages they would have burned me. Nowadays they are content with burning my books.
+> What progress we are making; in the Middle Ages they would have burned me.
+> Nowadays they are content with burning my books.
 > <br/>-- <cite><a href="https://www.pbs.org/wgbh/questionofgod/transcript/promised.html">Sigmund Freud</a></cite>
 
 > Stupidity: You think you know everything, without questioning. <br/>
@@ -37,7 +47,7 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > Authenticity is the reduction of phoniness toward the zero point.
 > <br/>-- <cite>A. H. Maslow</cite>
 
-> Every positive thought essentially holds within it a negative thought
+> Every positive thought essentially holds within it a negative thought.
 > <br/>-- <cite>Naval Ravikant</cite>
 
 > I realized that until I knew what was important right now, what was important
@@ -51,14 +61,16 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > Learn math, kids. Speaking the language of nature is the ultimate superpower.
 > <br/>-- <cite>Naval Ravikant</cite>
 
-> Making art is not selfish; it’s for the rest of us. If you don’t do your thing, you are cheating us.
+> Making art is not selfish; it’s for the rest of us. If you don’t do your thing,
+> you are cheating us.
 > <br/>-- <cite><a href="https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/">Kevin Kelly</a></cite>
 
 > There are only two kinds of languages: the ones people complain about and the
-> ones nobody uses
+> ones nobody uses.
 > <br/>-- <cite>Bjarne Stroustrup</cite>
 
-> If you could just sit for 30 minutes and be happy you are successful, but very few of us get there.
+> If you could just sit for 30 minutes and be happy you are successful, but very
+> few of us get there.
 > <br/>-- <cite>Navel Ravikant</cite>
 
 > Speak confidently as if you are right, but listen carefully as if you are wrong.
@@ -70,7 +82,8 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > It doesn't matter how much you polish the underside of the banister.
 > <br/>-- <cite>Randy Pausch</cite>
 
-> Life-hack: when in bed, meditate. Either you will have a deep meditation or fall asleep. Victory either way.
+> Life-hack: when in bed, meditate. Either you will have a deep meditation or
+> fall asleep. Victory either way.
 > <br/>-- <cite>Navel Ravikant</cite>
 
 > The main thing is to keep the main thing the main thing.
@@ -79,10 +92,10 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > Be kind to unkind people. They need it the most.
 > <br/>-- <cite>Ashleigh Brilliant</cite>
 
-> Being entirely honest with oneself is a good exercise
+> Being entirely honest with oneself is a good exercise.
 > <br/>-- <cite>Sigmund Freud</cite>
 
-> Escape competition through authenticity
+> Escape competition through authenticity.
 > <br/>-- <cite>Naval Ravikant</cite>
 
 > You can be in the back seat and travel to a place a hundred times. But until
@@ -95,32 +108,36 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > You can't stop the wave but you can learn to surf.
 > <br/>-- <cite>Jon Kabat-Zinn</cite>
 
-> I cannot face the idea of life without work. What would one do when ideas failed or words refused to come? It is impossible not to shudder at the thought.
+> I cannot face the idea of life without work. What would one do when ideas failed
+> or words refused to come? It is impossible not to shudder at the thought.
 > <br/>-- <cite><a href="https://www.pbs.org/wgbh/questionofgod/transcript/promised.html">Sigmund Freud</a></cite>
 
-> Much greatness in life comes out of suffering. You have to view the negative before you can aspire to and appreciate the positive.
+> Much greatness in life comes out of suffering. You have to view the negative
+> before you can aspire to and appreciate the positive.
 > <br/>-- Naval Ravikant
 
 > In order to understand recursion, you must first understand recursion.
 > <br/>-- <cite>ANNON</cite>
 
-> Intentions don't matter, actions do
+> Intentions don't matter, actions do.
 > <br/>-- <cite>Naval Ravikant</cite>
 
-> Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways.
+> Unexpressed emotions will never die. They are buried alive and will come forth
+> later in uglier ways.
 > <br/>-- <cite>Sigmund Freud</cite>
 
 > In theory, there is no difference between theory and practice, but in practice
 > there is.
 > <br/>-- <cite>ANNON</cite>
 
-> No one who distains the key will be able to unlock the door
+> No one who distains the key will be able to unlock the door.
 > <br/>-- <cite>Sigmund Freud</cite>
 
-> The idea is to die young as late as possible
+> The idea is to die young as late as possible.
 > <br/>-- <cite>Ashley Montagu</cite>
 
-> Free education is abundant, all over the Internet. It's the desire to learn that's scarce.  
+> Free education is abundant, all over the Internet. It's the desire to learn
+> that's scarce.
 > <br/>-- <cite>Naval Ravikant</cite>
 
 > If you have to eat a frog, don't spend too much time looking at it first and
@@ -137,7 +154,8 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > The cure for boredom is curiosity. There is no cure for curiosity.
 > <br/>-- <cite>Dorothy Parker, (attributed)</cite>
 
-> There are almost 7 billion people on this planet. Somehow I hope there will be almost 7 billion companies.
+> There are almost 7 billion people on this planet. Somehow I hope there will be
+> almost 7 billion companies.
 > <br/>-- <cite>Naval Ravikant</cite>
 
 > The problem with object-oriented languages is they’ve got all this implicit
@@ -154,10 +172,10 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > Don't take yourself too seriously. You're just a monkey with a plan.
 > <br/>-- <cite>Navel Ravikant</cite>
 
-> Anger is a hot coal you hold in your hand while waiting to throw it at somebody
+> Anger is a hot coal you hold in your hand while waiting to throw it at somebody.
 > <br/>-- <cite>Buddha</cite>
 
-> Health, love and your mission, in that order. Nothing else matters
+> Health, love and your mission, in that order. Nothing else matters.
 > <br/>-- <cite>Navel Ravikant</cite>
 
 > The programmer, like the poet, works only slightly removed from pure
@@ -171,7 +189,7 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > well.
 > <br/>-- <cite>Aras Atasaygin on Apprenticeship Patterns</cite>
 
-> Those attacking wealth creation are often just seeking status
+> Those attacking wealth creation are often just seeking status.
 > <br/>-- <cite>Naval Ravikant</cite>
 
 > But I was largely motivated by anxiety, a ceaseless feeling that I had to find
@@ -187,7 +205,8 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > <br/>-- <cite>George Vaillant, March 2008 newsletter to the Grant Study</cite>
 
 > Yesterday I was clever, so I wanted to change the world. Today I am wise, so I
-> am changing myself. <br/>-— <cite>Rumi</cite>
+> am changing myself.
+> <br/>-— <cite>Rumi</cite>
 
 > All of humanity’s problems stem from man’s inability to sit quietly in a room
 > alone. <br/>--<cite>Blaise Pascal</cite>
@@ -210,8 +229,24 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > the things I can, and wisdom to know the difference.
 > <br/>-- <cite>Serenity Prayer</cite>
 
-> We beat Level 1 when we figure out how to stop killing each other and come together as a single consciousness. I wonder what Level 2 will be like?
+> Would I still be interested in learning this thing if I couldn’t ever tell anybody
+> about it? That’s how I know it’s real. That’s how I know it’s something I actually
+> want to know.
+> <br/>-- <cite>Naval Ravikant</cite>
+
+> We beat Level 1 when we figure out how to stop killing each other and come together
+> as a single consciousness. I wonder what Level 2 will be like?
 > <br/>-- <cite>Me</cite>
 
-> Mankind is the only species in the universe that has found a way to measure something that doesn't exist (time!)
+> Without technology, we’re just monkeys playing in the dirt.
+> <br/>-- <cite>Naval Ravikant</cite>
+
+> Mankind is the only species in the universe that has found a way to measure something
+> that doesn't exist (time!).
 > <br/>-- <cite>Dolores Cannon</cite>
+
+> We say that we want peace of mind but what we really want is peace from mind.
+> <br/>-- <cite>Naval Ravikant</cite>
+
+> Stop thinking, and end your problems.
+> <br/>-- <cite>Lao Tzu</cite>
