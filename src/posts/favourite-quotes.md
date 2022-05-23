@@ -7,14 +7,14 @@ A collection of favourite quotes that I keep adding to as I discover more!
 
 <!-- end -->
 
+> Time you enjoy wasting is not wasted time.
+> <br/>-- <cite><a href="https://quoteinvestigator.com/2010/06/11/time-you-enjoy/">Marthe Troly-Curtin</a></cite>
+
 > Happiness is there when you remove the sense of something missing in your life.
 > <br/>-- <cite>Naval Ravikant</cite>
 
 > What you do on your bad days matters more than what you do on your good days.
 > <br/>-- <cite><a href="https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/">Kevin Kelly</a></cite>
-
-> Time you enjoy wasting is not wasted time.
-> <br/>-- <cite><a href="https://quoteinvestigator.com/2010/06/11/time-you-enjoy/">Marthe Troly-Curtin</a></cite>
 
 > Whether it's business, exercise, romance, friendship, whatever, I think the
 > meaning of life is to do things for their own sake.
