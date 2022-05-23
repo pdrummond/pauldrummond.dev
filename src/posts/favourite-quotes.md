@@ -1,19 +1,11 @@
 ---
 title: "Favourite Quotes"
-date: "2022-05-22"
+date: "2022-05-23"
 ---
 
 A collection of favourite quotes that I keep adding to as I discover more!
 
 <!-- end -->
-
-> The clearer our insight into what is beyond good and evil, the more we can embody the good.
-> <br/>-- <cite>Lao Tzu</cite>
-
-> The greatest help is wholeheartedly trusting people to resolve their own problems.
-> A true philanthropist, like a good parent, brings people to the point where they
-> can help themselves.
-> <br/>-- <cite>Stephen Mitchell</cite>
 
 > Happiness is there when you remove the sense of something missing in your life.
 > <br/>-- <cite>Naval Ravikant</cite>
@@ -234,9 +226,8 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > want to know.
 > <br/>-- <cite>Naval Ravikant</cite>
 
-> We beat Level 1 when we figure out how to stop killing each other and come together
-> as a single consciousness. I wonder what Level 2 will be like?
-> <br/>-- <cite>Me</cite>
+> The clearer our insight into what is beyond good and evil, the more we can embody the good.
+> <br/>-- <cite>Lao Tzu</cite>
 
 > Without technology, we’re just monkeys playing in the dirt.
 > <br/>-- <cite>Naval Ravikant</cite>
@@ -250,3 +241,11 @@ A collection of favourite quotes that I keep adding to as I discover more!
 
 > Stop thinking, and end your problems.
 > <br/>-- <cite>Lao Tzu</cite>
+
+> The greatest help is wholeheartedly trusting people to resolve their own problems.
+> A true philanthropist, like a good parent, brings people to the point where they
+> can help themselves.
+> <br/>-- <cite>Stephen Mitchell</cite>
+
+> Art is just creativity. It’s just anything that’s done for its own sake.
+> <br/>-- <cite>Naval Ravikant</cite>
