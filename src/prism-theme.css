@@ -138,3 +138,7 @@ pre[class*="language-"] {
 .token.entity {
   cursor: help;
 }
+
+blockquote {
+  border-left: 2px solid hsla(48, 2%, 55%, 0.87);
+}
