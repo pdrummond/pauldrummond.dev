@@ -1,7 +1,6 @@
 ---
 title: "Agile, more or less?"
-date: "2022-05-22"
-draft: true
+date: "2022-05-25"
 ---
 
 > Less agile is like writing an entire book up front, where each task is like chapters of a book.
