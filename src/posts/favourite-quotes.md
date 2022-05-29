@@ -10,6 +10,9 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > Time you enjoy wasting is not wasted time.
 > <br/>-- <cite><a href="https://quoteinvestigator.com/2010/06/11/time-you-enjoy/">Marthe Troly-Curtin</a></cite>
 
+> The most important thing I can tell you is to relish writing in obscurity.
+> <br/>-- <cite>Michelle Kuo</cite>
+
 > Happiness is there when you remove the sense of something missing in your life.
 > <br/>-- <cite>Naval Ravikant</cite>
 
@@ -249,3 +252,6 @@ A collection of favourite quotes that I keep adding to as I discover more!
 
 > Art is just creativity. It’s just anything that’s done for its own sake.
 > <br/>-- <cite>Naval Ravikant</cite>
+
+> You can preach a better sermon with your life than your lips.
+> <br/>-- <cite>Oliver Goldsmith</cite>
