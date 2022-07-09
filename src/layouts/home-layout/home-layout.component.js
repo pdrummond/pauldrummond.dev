@@ -51,8 +51,11 @@ export const HomeLayout = props => {
                 props.location.pathname.includes("/post")
               }
             >
-              Blog
+              Home
             </ListLink>
+            {/*<ListLink to="/books" active={props.location.pathname === "/books"}>
+              Book Notes
+            </ListLink>*/}
             <ListLink to="/about" active={props.location.pathname === "/about"}>
               About
             </ListLink>

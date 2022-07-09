@@ -1,6 +1,6 @@
 ---
 title: "Favourite Quotes"
-date: "2022-05-23"
+date: "2022-07-09"
 ---
 
 A collection of favourite quotes that I keep adding to as I discover more!
@@ -73,6 +73,9 @@ A collection of favourite quotes that I keep adding to as I discover more!
 
 > To make something generic is to make the simple things complex.
 > <br/>-- <cite>Adam Keys</cite>
+
+> If you were not actively engaged in making yourself miserable, you would be happy.
+> <br/>-- <cite>Anthony De Mello</cite>
 
 > It doesn't matter how much you polish the underside of the banister.
 > <br/>-- <cite>Randy Pausch</cite>
@@ -245,6 +248,13 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > Stop thinking, and end your problems.
 > <br/>-- <cite>Lao Tzu</cite>
 
+> I was once asked why I don't participate in anti-war demonstrations. I said that I will never
+> do that, but as soon as you have a pro-peace rally, I'll be there.
+> <br/>-- <cite>Mother Teresa</cite>
+
+> Happy to live, happy to let go. No attachement, no fear.
+> <br/>-- <cite>Anthony De Mello</cite>
+
 > The greatest help is wholeheartedly trusting people to resolve their own problems.
 > A true philanthropist, like a good parent, brings people to the point where they
 > can help themselves.
@@ -255,3 +265,6 @@ A collection of favourite quotes that I keep adding to as I discover more!
 
 > You can preach a better sermon with your life than your lips.
 > <br/>-- <cite>Oliver Goldsmith</cite>
+
+> You really begin to enjoy things when you're unattached, because attachment brings anxiety.
+> <br/>-- <cite>Anthony De Mello</cite>

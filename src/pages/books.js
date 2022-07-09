@@ -10,7 +10,10 @@ export default props => {
     query {
       allMarkdownRemark(
         sort: { fields: [frontmatter___date], order: DESC }
-        filter: { fields: { draft: { eq: false } } }
+        filter: {
+          fields: { draft: { eq: false } }
+          frontmatter: { tags: { in: ["booknotes"] } }
+        }
       ) {
         totalCount
         edges {
@@ -32,6 +35,7 @@ export default props => {
   return (
     <HomeLayout {...props}>
       <SEO title="Paul Drummond's Blog" />
+      <h1>Book Notes</h1>
       <div>
         {data.allMarkdownRemark.edges.map(({ node }) => (
           <div key={node.id}>
@@ -61,6 +65,8 @@ export default props => {
             <p>{node.excerpt}</p>
           </div>
         ))}
+        {data.allMarkdownRemark.edges.length === 0 &&
+          "No book notes yet - adding soon!"}
       </div>
     </HomeLayout>
   )
