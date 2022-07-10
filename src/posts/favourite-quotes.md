@@ -1,6 +1,6 @@
 ---
 title: "Favourite Quotes"
-date: "2022-07-09"
+date: "2022-07-10"
 ---
 
 A collection of favourite quotes that I keep adding to as I discover more!
@@ -10,8 +10,17 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > Time you enjoy wasting is not wasted time.
 > <br/>-- <cite><a href="https://quoteinvestigator.com/2010/06/11/time-you-enjoy/">Marthe Troly-Curtin</a></cite>
 
-> The most important thing I can tell you is to relish writing in obscurity.
-> <br/>-- <cite>Michelle Kuo</cite>
+> Stupidity: You think you know everything, without questioning. <br/>
+> Intelligence: You question everything you think you know.
+> <br/>-- <cite>Richard Feynman</cite>
+
+> Whether it's business, exercise, romance, friendship, whatever, I think the
+> meaning of life is to do things for their own sake.
+> <br/>-- <cite>Naval Ravikant</cite>
+
+> Grant me the serenity to accept the things I cannot change, courage to change
+> the things I can, and wisdom to know the difference.
+> <br/>-- <cite>Serenity Prayer</cite>
 
 > Happiness is there when you remove the sense of something missing in your life.
 > <br/>-- <cite>Naval Ravikant</cite>
@@ -19,17 +28,9 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > What you do on your bad days matters more than what you do on your good days.
 > <br/>-- <cite><a href="https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/">Kevin Kelly</a></cite>
 
-> Whether it's business, exercise, romance, friendship, whatever, I think the
-> meaning of life is to do things for their own sake.
-> <br/>-- <cite>Naval Ravikant</cite>
-
 > What progress we are making; in the Middle Ages they would have burned me.
 > Nowadays they are content with burning my books.
 > <br/>-- <cite><a href="https://www.pbs.org/wgbh/questionofgod/transcript/promised.html">Sigmund Freud</a></cite>
-
-> Stupidity: You think you know everything, without questioning. <br/>
-> Intelligence: You question everything you think you know.
-> <br/>-- <cite>Richard Feynman</cite>
 
 > Coding is the new literacy.
 > <br/>-- <cite>Naval Ravikant</cite>
@@ -223,10 +224,6 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > Someday, not being proficient with computers will be considered a form of illiteracy.
 > <br/>-- <cite>Naval Ravikant</cite>
 
-> Grant me the serenity to accept the things I cannot change, courage to change
-> the things I can, and wisdom to know the difference.
-> <br/>-- <cite>Serenity Prayer</cite>
-
 > Would I still be interested in learning this thing if I couldn’t ever tell anybody
 > about it? That’s how I know it’s real. That’s how I know it’s something I actually
 > want to know.
@@ -268,3 +265,6 @@ A collection of favourite quotes that I keep adding to as I discover more!
 
 > You really begin to enjoy things when you're unattached, because attachment brings anxiety.
 > <br/>-- <cite>Anthony De Mello</cite>
+
+> The most important thing I can tell you is to relish writing in obscurity.
+> <br/>-- <cite>Michelle Kuo</cite>
