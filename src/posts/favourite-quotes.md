@@ -1,6 +1,6 @@
 ---
 title: "Favourite Quotes"
-date: "2022-07-10"
+date: "2022-07-30"
 ---
 
 A collection of favourite quotes that I keep adding to as I discover more!
@@ -17,6 +17,9 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > Whether it's business, exercise, romance, friendship, whatever, I think the
 > meaning of life is to do things for their own sake.
 > <br/>-- <cite>Naval Ravikant</cite>
+
+> It's easy to break down and destroy. The heroes are those who make peace and build.
+> <br/>-- <cite>Nelson Mandela</cite>
 
 > Grant me the serenity to accept the things I cannot change, courage to change
 > the things I can, and wisdom to know the difference.
@@ -268,3 +271,17 @@ A collection of favourite quotes that I keep adding to as I discover more!
 
 > The most important thing I can tell you is to relish writing in obscurity.
 > <br/>-- <cite>Michelle Kuo</cite>
+
+> We are all going to die, all of us, what a circus! That alone should make us love each other
+> but it doesn't. We are terrorized and flattened by trivialities, we are eaten up by nothing.
+> <br/>-- <cite>Charles Bukowski</cite>
+
+> We could never learn to be brave and patient if there were only joy in the world
+> <br/>-- <cite>Helen Keller</cite>
+
+> The secret of happiness is not found in seeking more, but in developing the
+> capacity to enjoy less.
+> <br/>-- <cite>Socrates</cite>
+
+> Comparison is the thief of joy
+> <br/>-- <cite>Theodore Roosevelt</cite>
