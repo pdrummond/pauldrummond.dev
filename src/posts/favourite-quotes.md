@@ -1,6 +1,6 @@
 ---
 title: "Favourite Quotes"
-date: "2022-07-30"
+date: "2022-08-07"
 ---
 
 A collection of favourite quotes that I keep adding to as I discover more!
@@ -10,13 +10,15 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > Time you enjoy wasting is not wasted time.
 > <br/>-- <cite><a href="https://quoteinvestigator.com/2010/06/11/time-you-enjoy/">Marthe Troly-Curtin</a></cite>
 
+> Desire is a contract that you make with yourself to be unhappy until you get what you want.
+> <br/>-- <cite>Naval Ravikant</cite>
+
+> Comparison is the thief of joy
+> <br/>-- <cite>Theodore Roosevelt</cite>
+
 > Stupidity: You think you know everything, without questioning. <br/>
 > Intelligence: You question everything you think you know.
 > <br/>-- <cite>Richard Feynman</cite>
-
-> Whether it's business, exercise, romance, friendship, whatever, I think the
-> meaning of life is to do things for their own sake.
-> <br/>-- <cite>Naval Ravikant</cite>
 
 > It's easy to break down and destroy. The heroes are those who make peace and build.
 > <br/>-- <cite>Nelson Mandela</cite>
@@ -283,5 +285,15 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > capacity to enjoy less.
 > <br/>-- <cite>Socrates</cite>
 
-> Comparison is the thief of joy
-> <br/>-- <cite>Theodore Roosevelt</cite>
+> Whether it's business, exercise, romance, friendship, whatever, I think the
+> meaning of life is to do things for their own sake.
+> <br/>-- <cite>Naval Ravikant</cite>
+
+> Knowledge is knowing that a tomato is a fruit. Wisdom is knowing not to put it in a fruit salad.
+> <br/>-- <cite>Miles Kington</cite>
+
+> Unhappy is he who depends on success to be happy.
+> <br/>-- <cite>Alex Dias Ribeiro</cite>
+
+> Death destroys a man: the idea of death saves him.
+> <br/>-- <cite>E.M. Forster</cite>
