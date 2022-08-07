@@ -297,3 +297,6 @@ A collection of favourite quotes that I keep adding to as I discover more!
 
 > Death destroys a man: the idea of death saves him.
 > <br/>-- <cite>E.M. Forster</cite>
+
+> Life isn’t as serious as the mind makes it out to be.
+> <br/>-- <cite>Eckhart Tolle</cite>
