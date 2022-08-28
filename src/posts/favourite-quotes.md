@@ -7,14 +7,29 @@ A collection of favourite quotes that I keep adding to as I discover more!
 
 <!-- end -->
 
+> We don’t laugh because we’re happy, we are happy because we laugh.
+> <br/>-- <cite>William James</cite>
+
+> Don’t sweat the small stuff... and it’s all small stuff.
+> <br/>-- <cite>Richard Carlson</cite>
+
 > Time you enjoy wasting is not wasted time.
 > <br/>-- <cite><a href="https://quoteinvestigator.com/2010/06/11/time-you-enjoy/">Marthe Troly-Curtin</a></cite>
 
 > Desire is a contract that you make with yourself to be unhappy until you get what you want.
 > <br/>-- <cite>Naval Ravikant</cite>
 
+> So many of us choose our path out of fear disguised as practically.
+> <br/>-- <cite>Jim Carrey</cite>
+
 > Comparison is the thief of joy
 > <br/>-- <cite>Theodore Roosevelt</cite>
+
+> Happiness is not having what you want, but wanting what you have.
+> <br/>-- Rabbi Hyman Schachtel<cite>
+
+> A person without a sense of humor is like a wagon without springs – jolted by every pebble in the road.
+> <br/>-- <cite>Henry Ward Beecher</cite>
 
 > Stupidity: You think you know everything, without questioning. <br/>
 > Intelligence: You question everything you think you know.
@@ -79,6 +94,9 @@ A collection of favourite quotes that I keep adding to as I discover more!
 
 > To make something generic is to make the simple things complex.
 > <br/>-- <cite>Adam Keys</cite>
+
+> Some people die at 25 and aren't burried until 75.
+> <br/>-- <cite>Benjamin Franklin</cite>
 
 > If you were not actively engaged in making yourself miserable, you would be happy.
 > <br/>-- <cite>Anthony De Mello</cite>
@@ -298,5 +316,20 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > Death destroys a man: the idea of death saves him.
 > <br/>-- <cite>E.M. Forster</cite>
 
+> The most surprising thing is that you wouldn’t let anyone steal your property, but you consistently let people steal your time, which is infinitely more valuable.
+> <br/>-- <cite>Seneca</cite>
+
 > Life isn’t as serious as the mind makes it out to be.
 > <br/>-- <cite>Eckhart Tolle</cite>
+
+> Joy comes to us from those whom we love even when they are absent.
+> <br/>-- <cite>Seneca</cite>
+
+> You should think of the word 'depressed' as 'deep rest' Your body needs to be depressed. It needs deep rest from the character that you’ve been trying to play.
+> <br/>-- <cite>Jim Carrey</cite>
+
+> I delight in my own inprovement every day.
+> <br/>-- <cite>Epictetus</cite>
+
+> You can't change your friends but you can change your friends.
+> <br/>-- <cite>ANON</cite>

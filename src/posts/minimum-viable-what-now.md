@@ -1,6 +1,7 @@
 ---
 title: "Minimum Viable what now?"
 date: "2022-05-27"
+draft: true
 ---
 
 Minimum does not always mean small but the larger it is, the higher the risk.
