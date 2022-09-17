@@ -188,6 +188,10 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > The public have an insatiable curiosity to know everything, except what is
 > worth knowing. <br/>-- <cite>Oscar Wilde</cite>
 
+> We never love anyone. What we love is the idea we have of someone. It's our
+> own concept - our own selves - that we love.
+> <br/>-- <cite>Fernando Pessoa</cite>
+
 > Programming is not about typing, it’s about thinking.
 > <br/>-- <cite>Rich Hickey</cite>
 
