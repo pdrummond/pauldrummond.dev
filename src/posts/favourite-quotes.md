@@ -1,6 +1,6 @@
 ---
 title: "Favourite Quotes"
-date: "2022-08-07"
+date: "2022-09-17"
 ---
 
 A collection of favourite quotes that I keep adding to as I discover more!
