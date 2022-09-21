@@ -1,11 +1,18 @@
 ---
 title: "Favourite Quotes"
-date: "2022-09-17"
+date: "2022-09-21"
 ---
 
 A collection of favourite quotes that I keep adding to as I discover more!
 
 <!-- end -->
+
+> Don't ask what the world needs. Ask what makes you come alive and go do it,
+> because what the world needs is people who have come alive.
+> <br/>-- <cite>Howard Thurman</cite>
+
+> A Problem Well Stated is Half Solved
+> <br/>-- <cite>Charles Kettering</cite>
 
 > We don’t laugh because we’re happy, we are happy because we laugh.
 > <br/>-- <cite>William James</cite>
@@ -59,6 +66,10 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > is not learning to program, any more than learning about pencils is learning
 > to draw.
 > <br/>-- <cite>Bret Victor</cite>
+
+> We are not human beings having a spiritual experience. We are spiritual beings
+> having a human experience.
+> <br/>-- <cite>Pierre Teilhard de Chardin</cite>
 
 > Authenticity is the reduction of phoniness toward the zero point.
 > <br/>-- <cite>A. H. Maslow</cite>
@@ -154,6 +165,9 @@ A collection of favourite quotes that I keep adding to as I discover more!
 
 > No one who distains the key will be able to unlock the door.
 > <br/>-- <cite>Sigmund Freud</cite>
+
+> Abundance is harder for us to handle than scarcity.
+> <br/>-- <cite>Nassim Nicholas Taleb</cite>
 
 > The idea is to die young as late as possible.
 > <br/>-- <cite>Ashley Montagu</cite>
@@ -262,6 +276,9 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > Without technology, we’re just monkeys playing in the dirt.
 > <br/>-- <cite>Naval Ravikant</cite>
 
+> The powerful play goes on, and you may contribute a verse.
+> <br/>-- <cite>Walt Whitman</cite>
+
 > Mankind is the only species in the universe that has found a way to measure something
 > that doesn't exist (time!).
 > <br/>-- <cite>Dolores Cannon</cite>
@@ -307,6 +324,9 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > capacity to enjoy less.
 > <br/>-- <cite>Socrates</cite>
 
+> Busy remaking the world, man forgot to remake himself.
+> <br/>-- <cite>Andrei Platonov</cite>
+
 > Whether it's business, exercise, romance, friendship, whatever, I think the
 > meaning of life is to do things for their own sake.
 > <br/>-- <cite>Naval Ravikant</cite>
@@ -316,6 +336,11 @@ A collection of favourite quotes that I keep adding to as I discover more!
 
 > Unhappy is he who depends on success to be happy.
 > <br/>-- <cite>Alex Dias Ribeiro</cite>
+
+> The meaning of life is just to be alive. It is so plain and so obvious and so
+> simple. And yet, everybody rushes around in a great panic as if it were
+> necessary to achieve something beyond themselves.
+> <br/>-- <cite>Alan Watts</cite>
 
 > Death destroys a man: the idea of death saves him.
 > <br/>-- <cite>E.M. Forster</cite>
