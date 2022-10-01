@@ -62,6 +62,9 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > Coding is the new literacy.
 > <br/>-- <cite>Naval Ravikant</cite>
 
+> Contentment is natural wealth, luxury is artificial poverty.
+> <br/>-- <cite>Aristotle</cite>
+
 > Programming is a way of thinking, not a rote skill. Learning about "for" loops
 > is not learning to program, any more than learning about pencils is learning
 > to draw.
