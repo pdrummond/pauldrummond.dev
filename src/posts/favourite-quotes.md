@@ -7,6 +7,9 @@ A collection of favourite quotes that I keep adding to as I discover more!
 
 <!-- end -->
 
+> Don’t preach what you do not practise.
+> <br/>-- <cite>Sri Nisargadatta Maharaj</cite>
+
 > Don't ask what the world needs. Ask what makes you come alive and go do it,
 > because what the world needs is people who have come alive.
 > <br/>-- <cite>Howard Thurman</cite>
