@@ -10,6 +10,11 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > Don’t preach what you do not practise.
 > <br/>-- <cite>Sri Nisargadatta Maharaj</cite>
 
+> Everything is energy and that's all there is to it. Math the frequency of the reality you
+> want and you cannot help but get that reality. It can be no other way. This is not
+> philosophy. This is physics.
+> <br/>-- <cite>Albert Einstein</cite>
+
 > Don't ask what the world needs. Ask what makes you come alive and go do it,
 > because what the world needs is people who have come alive.
 > <br/>-- <cite>Howard Thurman</cite>
