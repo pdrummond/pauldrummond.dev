@@ -7,8 +7,17 @@ A collection of favourite quotes that I keep adding to as I discover more!
 
 <!-- end -->
 
+> Creativity is seeing what others see and thinking what no one else ever thought.
+> <br/>-- <cite>Albert Einstein</cite>
+
+> You can't change your friends but you can change your friends.
+> <br/>-- <cite>ANON</cite>
+
 > Don’t preach what you do not practise.
 > <br/>-- <cite>Sri Nisargadatta Maharaj</cite>
+
+> Whether you think you can or you think you can't, you're right.
+> <br/>-- <cite>Henry Ford</cite>
 
 > Everything is energy and that's all there is to it. Math the frequency of the reality you
 > want and you cannot help but get that reality. It can be no other way. This is not
@@ -371,5 +380,5 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > I delight in my own inprovement every day.
 > <br/>-- <cite>Epictetus</cite>
 
-> You can't change your friends but you can change your friends.
-> <br/>-- <cite>ANON</cite>
+> I have only made this letter longer because I have not had the time to make it shorter
+> <br/>-- <cite>Blaise Pascal</cite>
