@@ -43,6 +43,9 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > Desire is a contract that you make with yourself to be unhappy until you get what you want.
 > <br/>-- <cite>Naval Ravikant</cite>
 
+> When a person can't find a deep sense of meaning, they distract themselves with pleasure.
+> <br/>-- <cite>Viktor E. Frankl</cite>
+
 > So many of us choose our path out of fear disguised as practically.
 > <br/>-- <cite>Jim Carrey</cite>
 
@@ -157,6 +160,9 @@ A collection of favourite quotes that I keep adding to as I discover more!
 
 > The best thing a human being can do is to help another human being know more.
 > <br/>-- <cite>Charlie Munger</cite>
+
+> When we are no longer able to change a situation, we are challenged to change ourselves.
+> <br/>-- <cite>Victor Frankl</cite>
 
 > You can't stop the wave but you can learn to surf.
 > <br/>-- <cite>Jon Kabat-Zinn</cite>
