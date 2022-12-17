@@ -26,7 +26,7 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > <br/>-- <cite>Henry Ford</cite>
 
 > Depression is pulling back the curtain and see things as they are.
-> <br/>-- <cite>Vajra Shyra Avalon</cite>
+> <br/>-- <cite>Jed McKenna</cite>
 
 > Everything is energy and that's all there is to it. Math the frequency of the reality you
 > want and you cannot help but get that reality. It can be no other way. This is not
@@ -34,7 +34,7 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > <br/>-- <cite>Albert Einstein</cite>
 
 > Truth is infinitely simple, delusion is infinitely complex.
-> <br/>-- <cite>Vajra Shyra Avalon</cite>
+> <br/>-- <cite>Jed McKenna</cite>
 
 > Don't ask what the world needs. Ask what makes you come alive and go do it,
 > because what the world needs is people who have come alive.
