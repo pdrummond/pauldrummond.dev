@@ -172,6 +172,9 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > Being entirely honest with oneself is a good exercise.
 > <br/>-- <cite>Sigmund Freud</cite>
 
+> Nothing is good or bad but thinking makes it so.
+> <br/>-- <cite>Jed McKenna</cite>
+
 > Escape competition through authenticity.
 > <br/>-- <cite>Naval Ravikant</cite>
 
@@ -278,6 +281,9 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > it. This staying quiet and trying to guess what’s going on isn’t working so
 > well.
 > <br/>-- <cite>Aras Atasaygin on Apprenticeship Patterns</cite>
+
+> The only sin is ignorance and the only absolution is clear-seeing.
+> <br/>-- <cite>Jed McKenna</cite>
 
 > Those attacking wealth creation are often just seeking status.
 > <br/>-- <cite>Naval Ravikant</cite>
