@@ -7,6 +7,12 @@ A collection of favourite quotes that I keep adding to as I discover more!
 
 <!-- end -->
 
+> When the student is ready the teacher will appear. When the student is truly ready the teacher will disappear.
+> <br/>-- <cite>Tao Te Ching</cite>
+
+> If the voice in your head is you, who is the one listening to it?
+> <br/>-- <cite>Byron Katie</cite>
+
 > Creativity is seeing what others see and thinking what no one else ever thought.
 > <br/>-- <cite>Albert Einstein</cite>
 
@@ -19,10 +25,16 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > Whether you think you can or you think you can't, you're right.
 > <br/>-- <cite>Henry Ford</cite>
 
+> Depression is pulling back the curtain and see things as they are.
+> <br/>-- <cite>Vajra Shyra Avalon</cite>
+
 > Everything is energy and that's all there is to it. Math the frequency of the reality you
 > want and you cannot help but get that reality. It can be no other way. This is not
 > philosophy. This is physics.
 > <br/>-- <cite>Albert Einstein</cite>
+
+> Truth is infinitely simple, delusion is infinitely complex.
+> <br/>-- <cite>Vajra Shyra Avalon</cite>
 
 > Don't ask what the world needs. Ask what makes you come alive and go do it,
 > because what the world needs is people who have come alive.
