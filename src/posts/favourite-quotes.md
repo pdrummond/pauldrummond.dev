@@ -7,6 +7,9 @@ A collection of favourite quotes that I keep adding to as I discover more!
 
 <!-- end -->
 
+> The main thing to remember is that as long as you're in the herd, you're going where it's going, and the herd is always going in circles.
+> <br/>-- <cite>Jed McKenna</cite>
+
 > When the student is ready the teacher will appear. When the student is truly ready the teacher will disappear.
 > <br/>-- <cite>Tao Te Ching</cite>
 
@@ -97,6 +100,9 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > Contentment is natural wealth, luxury is artificial poverty.
 > <br/>-- <cite>Aristotle</cite>
 
+> Entertainment is terrified of losing you, and is willing to change itself to be more to your taste. Art doesn’t give a fuck whether it loses you — if you’re lost, that’s your problem.
+> <br/>-- <cite>Martin Blank</cite>
+
 > Programming is a way of thinking, not a rote skill. Learning about "for" loops
 > is not learning to program, any more than learning about pencils is learning
 > to draw.
@@ -119,6 +125,9 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > The person who says it cannot be done should not interrupt the person doing
 > it.
 > <br/>-- <cite>Chinese Proverb</cite>
+
+> All true artists, whether they know it or not, create from a place of no-mind, from inner stillness.
+> <br/>-- <cite>Ernst Ludwig Kirchner</cite>
 
 > Learn math, kids. Speaking the language of nature is the ultimate superpower.
 > <br/>-- <cite>Naval Ravikant</cite>
@@ -231,6 +240,9 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > There are almost 7 billion people on this planet. Somehow I hope there will be
 > almost 7 billion companies.
 > <br/>-- <cite>Naval Ravikant</cite>
+
+> All children are artists. The problem is how to remain an artist once he grows up.
+> <br/>-- <cite>Pablo Picasso</cite>
 
 > The problem with object-oriented languages is they’ve got all this implicit
 > environment that they carry around with them. You wanted a banana but what you
@@ -355,8 +367,14 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > but it doesn't. We are terrorized and flattened by trivialities, we are eaten up by nothing.
 > <br/>-- <cite>Charles Bukowski</cite>
 
-> We could never learn to be brave and patient if there were only joy in the world
+> We could never learn to be brave and patient if there were only joy in the world.
 > <br/>-- <cite>Helen Keller</cite>
+
+> Doubt is not a pleasant condition, but certainty is absurd.
+> <br/>-- <cite>Francois Voltaire</cite>
+
+> The world is made of stories, not atoms
+> <br/>-- <cite>Muriel Rukeyser</cite>
 
 > The secret of happiness is not found in seeking more, but in developing the
 > capacity to enjoy less.
@@ -400,3 +418,6 @@ A collection of favourite quotes that I keep adding to as I discover more!
 
 > I have only made this letter longer because I have not had the time to make it shorter
 > <br/>-- <cite>Blaise Pascal</cite>
+
+> Sit down, shut up and ask yourself, “What’s true?” until you know.
+> <br/>-- <cite>Jed McKenna</cite>
