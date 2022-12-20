@@ -34,7 +34,7 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > Depression is pulling back the curtain and see things as they are.
 > <br/>-- <cite>Jed McKenna</cite>
 
-> Everything is energy and that's all there is to it. Math the frequency of the reality you
+> Everything is energy and that's all there is to it. Match the frequency of the reality you
 > want and you cannot help but get that reality. It can be no other way. This is not
 > philosophy. This is physics.
 > <br/>-- <cite>Albert Einstein</cite>
