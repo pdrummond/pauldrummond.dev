@@ -31,7 +31,7 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > Whether you think you can or you think you can't, you're right.
 > <br/>-- <cite>Henry Ford</cite>
 
-> Depression is pulling back the curtain and see things as they are.
+> Depression is pulling back the curtain and seeing things as they are.
 > <br/>-- <cite>Jed McKenna</cite>
 
 > Everything is energy and that's all there is to it. Match the frequency of the reality you
