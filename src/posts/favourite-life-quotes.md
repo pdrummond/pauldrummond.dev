@@ -7,6 +7,12 @@ A collection of favourite quotes that I keep adding to as I discover more!
 
 <!-- end -->
 
+> Reality is that which, when you stop believing it, doesn't go away.
+> <br/>-- <cite>Philip K. Dick</cite>
+
+> What we need is not the will to believe, but the will to find out.
+> <br/>-- <cite>Betrand Russel</cite>
+
 > A musician must make music, an artist must paint, a poet must write--in short, what people can be they must be.
 > <br/>-- <cite><a href="http://psikoloji.fisek.com.tr/maslow/self.htm">Abraham Maslow</a></cite>
 
@@ -21,6 +27,9 @@ A collection of favourite quotes that I keep adding to as I discover more!
 
 > Creativity is seeing what others see and thinking what no one else ever thought.
 > <br/>-- <cite>Albert Einstein</cite>
+
+> The only devils in this world are those running around inside our own hearts, and that is where all our bettles should be fought.
+> <br/>-- <cite>Mahatma Gandhi</cite>
 
 > You can't change your friends but you can change your friends.
 > <br/>-- <cite>ANON</cite>
@@ -155,8 +164,8 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > Being entirely honest with oneself is a good exercise.
 > <br/>-- <cite>Sigmund Freud</cite>
 
-> Nothing is good or bad but thinking makes it so.
-> <br/>-- <cite>Jed McKenna</cite>
+> There is nothing either good or bad but thinking makes it so.
+> <br/>-- <cite>Shakespeare</cite>
 
 > Escape competition through authenticity.
 > <br/>-- <cite>Naval Ravikant</cite>
@@ -360,8 +369,23 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > I have only made this letter longer because I have not had the time to make it shorter
 > <br/>-- <cite>Blaise Pascal</cite>
 
+> What the caterpillar calls the end of the world, the rest of the world calls a butterfly.
+> <br/>-- <cite>Jed Mc Kenna</cite>
+
 > Sit down, shut up and ask yourself, “What’s true?” until you know.
 > <br/>-- <cite>Jed McKenna</cite>
 
 > No man chooses evil because it is evil; he only mistakes it for happiness, the good he seeks.
 > <br/>-- <cite>Mary Shelley</cite>
+
+> Truth does not need to be sought because it isn't lost.
+> <br/>-- <cite>Jed McKenna</cite>
+
+> Who looks outside, dreams; who looks inside, awakes.
+> <br/>-- <cite>C.G. Jung</cite>
+
+> I do not konw how to distinguish between our waking life and a dream. Are we not always living the life that we imagine we are?
+> <br/>-- <cite>Thoreau</cite>
+
+> To find yourself, think for yourself.
+> <br/>-- <cite>Socrates</cite>
