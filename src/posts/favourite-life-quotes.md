@@ -389,3 +389,9 @@ A collection of favourite quotes that I keep adding to as I discover more!
 
 > To find yourself, think for yourself.
 > <br/>-- <cite>Socrates</cite>
+
+> Beyond our ideas of right-doing and wrong-doing, there is a field. I'll meet you there.
+> <br/>-- <cite>Rumi</cite>
+
+> Depression is fear with hope removed.
+> <br/>-- <cite>Jed McKenna</cite>
