@@ -7,6 +7,9 @@ A collection of favourite quotes that I keep adding to as I discover more!
 
 <!-- end -->
 
+> If you want to make an apple pie from scratch, you must first create the universe.
+> <br/>-- <cite>Carl Sagan</cite>
+
 > Reality is that which, when you stop believing it, doesn't go away.
 > <br/>-- <cite>Philip K. Dick</cite>
 
@@ -257,6 +260,9 @@ A collection of favourite quotes that I keep adding to as I discover more!
 
 > Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.
 > <br/>-— <cite>Rumi</cite>
+
+> Boredom is fear of rocking the boat.
+> <br/>-- <cite>Abraham Hicks</cite>
 
 > All of humanity’s problems stem from man’s inability to sit quietly in a room alone. <br/>--<cite>Blaise Pascal</cite>
 
