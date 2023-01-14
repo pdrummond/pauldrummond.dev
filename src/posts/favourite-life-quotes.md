@@ -191,6 +191,9 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > Much greatness in life comes out of suffering. You have to view the negative before you can aspire to and appreciate the positive.
 > <br/>-- Naval Ravikant
 
+> Reality is just too real for most of us, so we temper it with the mind.
+> <br/>-- <cite>Michael A. Singer</cite>
+
 > Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways.
 > <br/>-- <cite>Sigmund Freud</cite>
 
