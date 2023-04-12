@@ -7,6 +7,44 @@ A collection of favourite quotes that I keep adding to as I discover more!
 
 <!-- end -->
 
+> Time you enjoy wasting is not wasted time.
+> <br/>-- <cite><a href="https://quoteinvestigator.com/2010/06/11/time-you-enjoy/">Marthe Troly-Curtin</a></cite>
+
+> Creativity is seeing what others see and thinking what no one else ever thought.
+> <br/>-- <cite>Albert Einstein</cite>
+
+> You appear, have a chance to blaze in the sky, then you disappear.
+> <br/>-- <cite>Steve Jobs</cite>
+
+> A musician must make music, an artist must paint, a poet must write - in short, what people can be they must be.
+> <br/>-- <cite><a href="http://psikoloji.fisek.com.tr/maslow/self.htm">Abraham Maslow</a></cite>
+
+> The purpose of life is to discover your gift. The work of life is to develop it. The meaning of life is to give your gift away.
+> <br/>-- <cite>David Viscott</cite>
+
+> Entertainment is terrified of losing you, and is willing to change itself to be more to your taste. Art doesn’t give a fuck whether it loses you — if you’re lost, that’s your problem.
+> <br/>-- <cite>Martin Blank</cite>
+
+> All true artists, whether they know it or not, create from a place of no-mind, from inner stillness.
+> <br/>-- <cite>Ernst Ludwig Kirchner</cite>
+
+> Making art is not selfish; it’s for the rest of us. If you don’t do your thing, you are cheating us.
+> <br/>-- <cite><a href="https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/">Kevin Kelly</a></cite>
+
+> Would I still be interested in learning this thing if I couldn’t ever tell anybody
+> about it? That’s how I know it’s real. That’s how I know it’s something I actually
+> want to know.
+> <br/>-- <cite>Naval Ravikant</cite>
+
+> One of the ways that I believe people express their appreciation to the rest of humanity is to make something wonderful and put it out there.
+> <br/>-- <cite>Steve Jobs</cite>
+
+> Art is just creativity. It’s just anything that’s done for its own sake.
+> <br/>-- <cite>Naval Ravikant</cite>
+
+> Don’t sweat the small stuff... and it’s all small stuff.
+> <br/>-- <cite>Richard Carlson</cite>
+
 > If you want to make an apple pie from scratch, you must first create the universe.
 > <br/>-- <cite>Carl Sagan</cite>
 
@@ -16,20 +54,11 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > What we need is not the will to believe, but the will to find out.
 > <br/>-- <cite>Betrand Russel</cite>
 
-> A musician must make music, an artist must paint, a poet must write--in short, what people can be they must be.
-> <br/>-- <cite><a href="http://psikoloji.fisek.com.tr/maslow/self.htm">Abraham Maslow</a></cite>
-
-> The main thing to remember is that as long as you're in the herd, you're going where it's going, and the herd is always going in circles.
-> <br/>-- <cite>Jed McKenna</cite>
-
 > When the student is ready the teacher will appear. When the student is truly ready the teacher will disappear.
 > <br/>-- <cite>Tao Te Ching</cite>
 
 > If the voice in your head is you, who is the one listening to it?
 > <br/>-- <cite>Byron Katie</cite>
-
-> Creativity is seeing what others see and thinking what no one else ever thought.
-> <br/>-- <cite>Albert Einstein</cite>
 
 > The only devils in this world are those running around inside our own hearts, and that is where all our bettles should be fought.
 > <br/>-- <cite>Mahatma Gandhi</cite>
@@ -63,12 +92,6 @@ A collection of favourite quotes that I keep adding to as I discover more!
 
 > We don’t laugh because we’re happy, we are happy because we laugh.
 > <br/>-- <cite>William James</cite>
-
-> Don’t sweat the small stuff... and it’s all small stuff.
-> <br/>-- <cite>Richard Carlson</cite>
-
-> Time you enjoy wasting is not wasted time.
-> <br/>-- <cite><a href="https://quoteinvestigator.com/2010/06/11/time-you-enjoy/">Marthe Troly-Curtin</a></cite>
 
 > Desire is a contract that you make with yourself to be unhappy until you get what you want.
 > <br/>-- <cite>Naval Ravikant</cite>
@@ -112,9 +135,6 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > Contentment is natural wealth, luxury is artificial poverty.
 > <br/>-- <cite>Aristotle</cite>
 
-> Entertainment is terrified of losing you, and is willing to change itself to be more to your taste. Art doesn’t give a fuck whether it loses you — if you’re lost, that’s your problem.
-> <br/>-- <cite>Martin Blank</cite>
-
 > We are not human beings having a spiritual experience. We are spiritual beings
 > having a human experience.
 > <br/>-- <cite>Pierre Teilhard de Chardin</cite>
@@ -130,12 +150,6 @@ A collection of favourite quotes that I keep adding to as I discover more!
 
 > The person who says it cannot be done should not interrupt the person doing it.
 > <br/>-- <cite>Chinese Proverb</cite>
-
-> All true artists, whether they know it or not, create from a place of no-mind, from inner stillness.
-> <br/>-- <cite>Ernst Ludwig Kirchner</cite>
-
-> Making art is not selfish; it’s for the rest of us. If you don’t do your thing, you are cheating us.
-> <br/>-- <cite><a href="https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/">Kevin Kelly</a></cite>
 
 > If you could just sit for 30 minutes and be happy you are successful, but very few of us get there.
 > <br/>-- <cite>Navel Ravikant</cite>
@@ -267,21 +281,14 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > Boredom is fear of rocking the boat.
 > <br/>-- <cite>Abraham Hicks</cite>
 
-> All of humanity’s problems stem from man’s inability to sit quietly in a room alone. <br/>--<cite>Blaise Pascal</cite>
-
-> The purpose of life is to discover your gift. The work of life is to develop it. The meaning of life is to give your gift away.
-> <br/>-- <cite>David Viscott</cite>
+> All of humanity’s problems stem from man’s inability to sit quietly in a room alone.
+> <br/>--<cite>Blaise Pascal</cite>
 
 > There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self.
 > <br/>-- <cite>Ernest Hemingway</cite>
 
 > If you hate a person then you are defeated by them.
 > <br/>-- <cite>Confucius</cite>
-
-> Would I still be interested in learning this thing if I couldn’t ever tell anybody
-> about it? That’s how I know it’s real. That’s how I know it’s something I actually
-> want to know.
-> <br/>-- <cite>Naval Ravikant</cite>
 
 > The clearer our insight into what is beyond good and evil, the more we can embody the good.
 > <br/>-- <cite>Lao Tzu</cite>
@@ -311,9 +318,6 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > A true philanthropist, like a good parent, brings people to the point where they
 > can help themselves.
 > <br/>-- <cite>Stephen Mitchell</cite>
-
-> Art is just creativity. It’s just anything that’s done for its own sake.
-> <br/>-- <cite>Naval Ravikant</cite>
 
 > You can preach a better sermon with your life than your lips.
 > <br/>-- <cite>Oliver Goldsmith</cite>
