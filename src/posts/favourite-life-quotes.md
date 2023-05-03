@@ -13,6 +13,9 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > Creativity is seeing what others see and thinking what no one else ever thought.
 > <br/>-- <cite>Albert Einstein</cite>
 
+> Humor is the brain's way of saying, "Nice try, but you are reasoning on thin ice here."
+> <br/>--<cite><a href="https://www.gathering4gardner.org/g4g12gift/Mutalik_Pradeep-How_Puzzles_Made_Us_Human.pdf">Pradeep Mutalik</a></cite>
+
 > You appear, have a chance to blaze in the sky, then you disappear.
 > <br/>-- <cite>Steve Jobs</cite>
 
