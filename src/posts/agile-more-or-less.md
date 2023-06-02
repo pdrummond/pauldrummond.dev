@@ -1,10 +1,18 @@
 ---
-title: "Agile, more or less?"
+title: "Debuking the myths of agile development"
 date: "2022-05-25"
 draft: true
 ---
 
-Less agile is like writing an entire non-fiction book up front where each task is like chapters of a book.
+## Agile development isn’t about squeezing 6 months of work into 2 weeks!
+
+The team tend not to think of it as "6 months of work" anyway. They focus on getting inside the head of customers (which is very difficult and
+requires a skilled Product Manager to be a member of the team) to identify their biggest problems and needs, then work on a solution that focuses in on the core problem.
+
+It’s about the team reducing the scope to the most important thing the customer needs and if that’s possible in 2 weeks, fantastic. Often it’s not, but as long as the team is trying to reduce the scope to essential functionality, that’s what’s important.
+
+Agile development isn’t about delivering broken software!
+Agile development isn’t about delivering low quality software
 
 More agile is when you ditch chapters altogether and write a blog post instead.
 

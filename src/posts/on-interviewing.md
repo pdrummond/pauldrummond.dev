@@ -1,6 +1,7 @@
 ---
 title: "On Interviewing"
 date: "2020-03-06"
+draft: true
 ---
 
 My thoughts on the interview process and whether technical coding tests are

@@ -19,6 +19,9 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > You appear, have a chance to blaze in the sky, then you disappear.
 > <br/>-- <cite>Steve Jobs</cite>
 
+> I think the reward for conformity is that everyone likes you except yourself.
+> <br/>-- <cite>Rita Mae Brown</cite>
+
 > A musician must make music, an artist must paint, a poet must write - in short, what people can be they must be.
 > <br/>-- <cite><a href="http://psikoloji.fisek.com.tr/maslow/self.htm">Abraham Maslow</a></cite>
 
