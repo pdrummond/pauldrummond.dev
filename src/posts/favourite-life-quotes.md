@@ -13,14 +13,8 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > Creativity is seeing what others see and thinking what no one else ever thought.
 > <br/>-- <cite>Albert Einstein</cite>
 
-> Humor is the brain's way of saying, "Nice try, but you are reasoning on thin ice here."
-> <br/>--<cite><a href="https://www.gathering4gardner.org/g4g12gift/Mutalik_Pradeep-How_Puzzles_Made_Us_Human.pdf">Pradeep Mutalik</a></cite>
-
 > You appear, have a chance to blaze in the sky, then you disappear.
 > <br/>-- <cite>Steve Jobs</cite>
-
-> I think the reward for conformity is that everyone likes you except yourself.
-> <br/>-- <cite>Rita Mae Brown</cite>
 
 > A musician must make music, an artist must paint, a poet must write - in short, what people can be they must be.
 > <br/>-- <cite><a href="http://psikoloji.fisek.com.tr/maslow/self.htm">Abraham Maslow</a></cite>
@@ -92,6 +86,9 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > Don't ask what the world needs. Ask what makes you come alive and go do it,
 > because what the world needs is people who have come alive.
 > <br/>-- <cite>Howard Thurman</cite>
+
+> All children are artists. The problem is how to remain an artist once he grows up.
+> <br/>-- <cite>Pablo Picasso</cite>
 
 > A Problem Well Stated is Half Solved
 > <br/>-- <cite>Charles Kettering</cite>
@@ -242,8 +239,8 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > almost 7 billion companies.
 > <br/>-- <cite>Naval Ravikant</cite>
 
-> All children are artists. The problem is how to remain an artist once he grows up.
-> <br/>-- <cite>Pablo Picasso</cite>
+> I think the reward for conformity is that everyone likes you except yourself.
+> <br/>-- <cite>Rita Mae Brown</cite>
 
 > The public have an insatiable curiosity to know everything, except what is
 > worth knowing. <br/>-- <cite>Oscar Wilde</cite>
