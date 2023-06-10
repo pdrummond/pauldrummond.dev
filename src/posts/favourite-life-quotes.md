@@ -31,6 +31,9 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > Making art is not selfish; it’s for the rest of us. If you don’t do your thing, you are cheating us.
 > <br/>-- <cite><a href="https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/">Kevin Kelly</a></cite>
 
+> Why are you unhappy? Because 99.9 percent of everything you think, and of everything you do, is for yourself — and there isn’t one.
+> <br/>-- <cite>Wei Wu Wei</cite>
+
 > Would I still be interested in learning this thing if I couldn’t ever tell anybody
 > about it? That’s how I know it’s real. That’s how I know it’s something I actually
 > want to know.
