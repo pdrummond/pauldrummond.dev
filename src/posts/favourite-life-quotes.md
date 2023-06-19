@@ -10,11 +10,23 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > Time you enjoy wasting is not wasted time.
 > <br/>-- <cite><a href="https://quoteinvestigator.com/2010/06/11/time-you-enjoy/">Marthe Troly-Curtin</a></cite>
 
+> Art is a lie that helps us understand the truth
+> <br/>-- <cite>Pablo Picasso</cite>
+
 > Creativity is seeing what others see and thinking what no one else ever thought.
 > <br/>-- <cite>Albert Einstein</cite>
 
+> Only put off until tomorrow what you are willing to die having left undone.
+> <br/>-- <cite>Pablo Picasso</cite>
+
+> If you simply try to tell the truth you will, nine times out of ten, become original without ever having noticed it. 
+> <br/>-- <cite>C.S. Lewis</cite>
+
 > You appear, have a chance to blaze in the sky, then you disappear.
 > <br/>-- <cite>Steve Jobs</cite>
+
+> The opposite of art is not ugliness, it's indifference
+> <br/>-- <cite>Eli Wiesel</cite>
 
 > A musician must make music, an artist must paint, a poet must write - in short, what people can be they must be.
 > <br/>-- <cite><a href="http://psikoloji.fisek.com.tr/maslow/self.htm">Abraham Maslow</a></cite>
@@ -140,6 +152,9 @@ A collection of favourite quotes that I keep adding to as I discover more!
 
 > Contentment is natural wealth, luxury is artificial poverty.
 > <br/>-- <cite>Aristotle</cite>
+
+> The ultimate way you and I get lucky is if you have some success early in life, you get to find out early it doesn't mean anything
+> <br/>--<cite>David Foster Wallace</cite>
 
 > We are not human beings having a spiritual experience. We are spiritual beings
 > having a human experience.
