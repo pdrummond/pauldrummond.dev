@@ -10,6 +10,9 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > Time you enjoy wasting is not wasted time.
 > <br/>-- <cite><a href="https://quoteinvestigator.com/2010/06/11/time-you-enjoy/">Marthe Troly-Curtin</a></cite>
 
+> Learn not to pay too much for money.
+> <br/>-- <cite>Abraham Maslow</cite>
+
 > Art is a lie that helps us understand the truth
 > <br/>-- <cite>Pablo Picasso</cite>
 
@@ -19,7 +22,7 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > Only put off until tomorrow what you are willing to die having left undone.
 > <br/>-- <cite>Pablo Picasso</cite>
 
-> If you simply try to tell the truth you will, nine times out of ten, become original without ever having noticed it. 
+> If you simply try to tell the truth you will, nine times out of ten, become original without ever having noticed it.
 > <br/>-- <cite>C.S. Lewis</cite>
 
 > You appear, have a chance to blaze in the sky, then you disappear.
