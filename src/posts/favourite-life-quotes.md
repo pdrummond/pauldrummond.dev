@@ -13,11 +13,17 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > Learn not to pay too much for money.
 > <br/>-- <cite>Abraham Maslow</cite>
 
+> We don't stop playing because we grow old; we grow old because we stop playing
+> <br/>-- <cite>George Bernard Shaw</cite>
+
 > Art is a lie that helps us understand the truth
 > <br/>-- <cite>Pablo Picasso</cite>
 
 > Creativity is seeing what others see and thinking what no one else ever thought.
 > <br/>-- <cite>Albert Einstein</cite>
+
+> People are just as wonderful as sunsets if you let them be. When I look at a sunset, I don't find myself saying, "Soften the orange a bit on the right hand corner." I don't try to control a sunset. I watch with awe as it unfolds.
+> <br/>-- <cite>Carl Rogers</cite>
 
 > Only put off until tomorrow what you are willing to die having left undone.
 > <br/>-- <cite>Pablo Picasso</cite>
