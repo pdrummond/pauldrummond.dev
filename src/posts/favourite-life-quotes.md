@@ -19,6 +19,9 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > Art is a lie that helps us understand the truth
 > <br/>-- <cite>Pablo Picasso</cite>
 
+> The enemy of art is the absence of limitations
+> <br/>-- <cite>Orson Welles</cite>
+
 > Creativity is seeing what others see and thinking what no one else ever thought.
 > <br/>-- <cite>Albert Einstein</cite>
 
