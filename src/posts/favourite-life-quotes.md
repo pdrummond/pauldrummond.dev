@@ -273,10 +273,13 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > <br/>-- <cite>Rita Mae Brown</cite>
 
 > The public have an insatiable curiosity to know everything, except what is
-> worth knowing. <br/>-- <cite>Oscar Wilde</cite>
+> worth knowing.
+> <br/>-- <cite>Oscar Wilde</cite>
 
-> We never love anyone. What we love is the idea we have of someone. It's our
-> own concept - our own selves - that we love.
+> Eternity has nothing to do with time. Time is what shuts you out from eternity. Eternity is now. It is the transcendent dimension of the now to which myth refers
+> <br/>-- <cite>Joseph Campbell</cite>
+
+> We never love anyone. What we love is the idea we have of someone. It's our own concept - our own selves - that we love.
 > <br/>-- <cite>Fernando Pessoa</cite>
 
 > Don't take yourself too seriously. You're just a monkey with a plan.
