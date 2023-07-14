@@ -34,6 +34,9 @@ A collection of favourite quotes that I keep adding to as I discover more!
 > If you simply try to tell the truth you will, nine times out of ten, become original without ever having noticed it.
 > <br/>-- <cite>C.S. Lewis</cite>
 
+> Love is wise, hatred is foolish
+> <br/>-- <cite>Bertrand Russell</cite>
+
 > You appear, have a chance to blaze in the sky, then you disappear.
 > <br/>-- <cite>Steve Jobs</cite>
 
