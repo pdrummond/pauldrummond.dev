@@ -1,7 +1,6 @@
 ---
 title: "Tech Quotes"
-date: "2022-12-10"
-draft: true
+date: "2019-12-10"
 ---
 
 A collection of tech quotes that I keep adding to as I discover more!
