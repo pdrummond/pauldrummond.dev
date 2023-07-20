@@ -49,7 +49,7 @@ Then, I do the following in the terminal in the root folder of `my-crud-app`:
 
 ```
 git branch -M main
-git remote add origin git@github.com:pdrummond/devved.git
+git remote add origin git@github.com:pdrummond/my-crud-app.git
 git push -u origin main
 ```
 
