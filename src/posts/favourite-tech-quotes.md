@@ -1,6 +1,6 @@
 ---
 title: "Tech Quotes"
-date: "2022-25-04"
+date: "2022-04-25"
 ---
 
 A collection of tech quotes that I keep adding to as I discover more!
