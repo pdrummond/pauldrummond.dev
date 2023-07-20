@@ -1,6 +1,7 @@
 ---
 title: "I'm making a videogame"
 date: "2020-09-01"
+draft: true
 ---
 
 Because... why not?

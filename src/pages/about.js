@@ -69,6 +69,16 @@ export default props => {
             </p>
           </li>
         </ul>
+
+        <h1> Favourite Quotes </h1>
+        <ul>
+          <li>
+            <a href="/posts/favourite-life-quotes">Favourite Life quotes</a>
+          </li>
+          <li>
+            <a href="/posts/favourite-tech-quotes">Favourite Tech quotes</a>
+          </li>
+        </ul>
       </div>
     </HomeLayout>
   )

@@ -1,6 +1,7 @@
 ---
 title: "Favourite Quotes"
 date: "2023-06-25"
+draft: true
 ---
 
 A collection of favourite quotes that I keep adding to as I discover more!
