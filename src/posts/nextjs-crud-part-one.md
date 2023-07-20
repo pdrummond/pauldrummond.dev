@@ -41,7 +41,7 @@ At this point I can visit http://localhost:3000 to view the application.
 
 # Deployment
 
-I am a bit fan of Continuous Delivery/Deployment (CD) so I want to push to production whenever I commit code, right from the start. So before writing any code, let's set-up Vercel so we can see the app running live in production from the get go.
+I'm a fan of [Continuous Delivery](/posts/on-continuous-delivery) (CD) so I want to push to production whenever I commit code, right from the start. So before writing any code, let's set-up Vercel so we can see the app running live in production from the get go.
 
 First, I need to set-up the repo in GitHub so I goto `github.com` in a browser and create a new empty repo called `my-crud-app` without initialising it with a README or .gitignore as the project on my local machine already has them.
 
