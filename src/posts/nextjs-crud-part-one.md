@@ -29,7 +29,7 @@ On installation, I had to make some decisions. I chose as follows:
 
 TypeScript and ESLint are essential for me so that was a no-brainer. I've tried to like Tailwind but I just can't. I thought I would prefer a src folder but after trying it for a bit I don't really see the point so I decided to omit it. No big deal either way though - go with whatever you prefer. App Router is essential for me as I'm learning Next.js in 2023 and this is the future so it's another no-brainer.
 
-I wasn't sure about the default import alias so I just accepted the defaults. If you want to learn more about it, check out [this](https://dev.to/rhammy/path-aliases-in-nextjs-2fnc) great article by Abdulrahman Afaraetu which covers it in detail. I don't find relative paths to be that much of an issue, personally.
+I chose not to customise the default import alias but you might want to depending on how you like to structure your projects. The default import alias allows you to import modules without using relative paths. So if I create a `./components` folder and a `./utils` folder at the root level of the project, then I can import modules from those folders using `@components` or `@utils` rather than using realtive paths with ends up with a lot of `../../../` in the imports. It might not seem like a big deal now but it can get ugly as the project gets bigger.
 
 After the prompts, create-next-app will create a folder named `my-crud-app` and install the required dependencies so I cd into that folder and type `code .` to open the project in VSCode. Then I switch back to the terminal (I can't get used to using the one inside VSCode - I perfer a separate terminal app so I can ALT-TAB between them easily) and type the following to run the app locally:
 

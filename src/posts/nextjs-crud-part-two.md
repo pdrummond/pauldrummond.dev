@@ -91,7 +91,7 @@ The push will automatically trigger a deployment build over on Vercel.com and wi
 
 Except it doesn't work, haha! When I got to look at the build in the Vercel dashboard, there is an error and it's complaining about Prisma and some weird dependency caching nonsense. All I need to do is add `prisma generate` to the build as follows:
 
-````json
+```json
 //package.json
 {
   ...
@@ -100,6 +100,7 @@ Except it doesn't work, haha! When I got to look at the build in the Vercel dash
   }
   ...
 }
+```
 
 Then I commit and push again:
 
@@ -112,7 +113,29 @@ Then I cross my fingers and... this time it works as expected!
 
 # Creating a new post
 
+Firstly, lets add a link to the `/create` page on the home page so we have a way to access it. At the bottom of the JSX after the closing `</ul`> add
+
+```
+import { Post } from "@prisma/client";
+import { prisma } from "./db";
+import Link from "next/link";
+
+export default async function Home() {
+  const posts: Post[] = await prisma.post.findMany();
+
+  return (
+    <main>
+      <ul>
+        {posts.map((post) => (
+          <li key={post.id}>{post.content}</li>
+        ))}
+      </ul>
+      <Link href="/create">Create</Link>
+    </main>
+  );
+}
 ```
 
 ```
-````
+
+```
